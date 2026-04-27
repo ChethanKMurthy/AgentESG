@@ -239,3 +239,6 @@ data/
 *.pptx
 ~$*.docx
 ~$*.pptx
+
+CLAUDE.md
+.claude/
