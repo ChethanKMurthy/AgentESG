@@ -1,8 +1,5 @@
 # RUNBOOK
 
-Quick operational reference for the esg.intel stack. Everything is run from the
-repo root: `/Users/chethan356/projects/Capstone`.
-
 ---
 
 ## 0. Prerequisites on the host
