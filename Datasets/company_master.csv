@@ -1,0 +1,1001 @@
+company_id,company_name,country,eu_member_state,region,sector,subsector,industry,revenue_usd,total_assets_usd,employees,entity_type,listing_status,stock_symbol,fiscal_year,currency,company_size_band,csrd_applicable
+1,LOT Polish Airlines,Poland,Poland,Central Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,1165939081.16,2210767174.37,4894,Private,Unlisted,,2024,EUR,Medium,Yes
+2,Unibail-Rodamco (NL ops),Netherlands,Netherlands,Western Europe,Construction/Industrials,Real Estate,Commercial Real Estate,220937427.45,458033412.85,1076,Private,Unlisted,,2024,EUR,Medium,Yes
+3,Bord Gáis Energy,Ireland,Ireland,Western Europe,Energy/Utilities,Renewable Energy,Wind,23015366.45,74992704.21,20,Private,Unlisted,,2024,EUR,Small,No
+4,TomTom N.V.,Netherlands,Netherlands,Western Europe,Technology,Semiconductors,Semiconductor Devices,3787995620.92,4152157745.34,10128,Public,Listed,TOMT.AS,2024,EUR,Large,Yes
+5,Douglas AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,1080607992.2,1115389410.16,9214,Public,Listed,DOUG.DE,2024,EUR,Medium,Yes
+6,Amundi SA,France,France,Western Europe,Financial Services,Banking,Commercial Banking,2100036977.49,21404113094.6,8177,Private,Unlisted,,2024,EUR,Large,Yes
+7,Traton SE,Germany,Germany,Central Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,229748850.46,466908950.03,721,Private,Unlisted,,2024,EUR,Medium,Yes
+8,Aegean Airlines,Greece,Greece,Southern Europe,Automotive/Transport,Airlines,Cargo Airline,1762055301.7,3366529067.09,8555,Public,Listed,AEGE.AT,2024,EUR,Large,Yes
+9,Huuuge Games,Poland,Poland,Central Europe,Technology,IT Services,Managed Services,25775519.01,37157260.12,45,Private,Unlisted,,2024,EUR,Small,No
+10,Canal+ Group,France,France,Western Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,19678836.88,26625106.51,66,Private,Unlisted,,2024,EUR,Small,No
+11,Skeleton Technologies,Estonia,Estonia,Northern Europe,Energy/Utilities,Water Utilities,Water & Waste,62706641.66,127978177.91,73,Public,Listed,SKEL.EU,2024,EUR,Small,No
+12,KLM Royal Dutch Airlines,Netherlands,Netherlands,Western Europe,Automotive/Transport,Logistics,Postal & Parcel,2145724323.52,3924980130.39,9474,Private,Unlisted,,2024,EUR,Large,Yes
+13,Champagne Bollinger,France,France,Western Europe,Consumer Goods/Retail,Media & Entertainment,Media,11253035983.93,19856376886.49,81923,Public,Listed,CHAM.PA,2024,EUR,Large,Yes
+14,Valentino Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Media & Entertainment,Media,3289641597.1,3202167582.95,18996,Public,Listed,VALE.MI,2024,EUR,Large,Yes
+15,Glenveagh Properties,Ireland,Ireland,Western Europe,Construction/Industrials,Machinery,Agricultural Machinery,366415267.33,652826413.64,1984,Private,Unlisted,,2024,EUR,Medium,Yes
+16,Zealand Pharma,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Biotechnology,Biotech,6490467492.59,11461088812.88,35328,Public,Unlisted,,2024,EUR,Large,Yes
+17,MásMóvil Ibercom,Spain,Spain,Southern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,4650538092.73,7188324527.45,19086,Public,Listed,MÁSM.MC,2024,EUR,Large,Yes
+18,De'Longhi Appliances,Italy,Italy,Southern Europe,Consumer Goods/Retail,E-Commerce,Online Retail,4206670265.91,6724695556.52,17609,Public,Unlisted,,2024,EUR,Large,Yes
+19,TAG Immobilien AG,Germany,Germany,Central Europe,Construction/Industrials,Building Products,Building Materials,375639013.35,444244732.83,1156,Private,Unlisted,,2024,EUR,Medium,Yes
+20,Siemens AG,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Agricultural Machinery,40480331895.18,44376455278.52,221564,Public,Listed,SIEM.DE,2024,EUR,Large,Yes
+21,Mytilineos S.A.,Greece,Greece,Southern Europe,Manufacturing,Paper & Packaging,Packaging,652829247.76,1140888087.86,1780,Public,Listed,MYTI.AT,2024,EUR,Medium,Yes
+22,Solvay Belgium,Belgium,Belgium,Western Europe,Manufacturing,Chemicals,Specialty Chemicals,398635665.48,413339014.09,1438,Private,Unlisted,,2024,EUR,Medium,Yes
+23,Electrica S.A.,Romania,Romania,Eastern Europe,Energy/Utilities,Renewable Energy,Solar,11817572522.3,21663230148.98,13757,Public,Listed,ELEC.BVB,2024,EUR,Large,Yes
+24,TUI AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Household Products,Household Goods,1928003499.26,3019916214.34,11703,Public,Listed,TUIA.DE,2024,EUR,Large,Yes
+25,Tokmanni Group,Finland,Finland,Northern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,43507404.44,75965707.66,344,Private,Unlisted,,2024,EUR,Small,No
+26,S Immo AG,Austria,Austria,Central Europe,Construction/Industrials,Construction,Civil Engineering,971155926.83,1956680235.38,5443,Public,Listed,SIMM.VI,2024,EUR,Medium,Yes
+27,A2A S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Oil & Gas E&P,Upstream,10216368561.37,40825045079.38,11244,Public,Listed,A2AS.MI,2024,EUR,Large,Yes
+28,Rovio Entertainment,Finland,Finland,Northern Europe,Technology,Software,Consumer Software,42530841481.35,57986308669.15,66432,Public,Listed,ROVI.HE,2024,EUR,Large,Yes
+29,JDE Peet's,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,10327253896.42,16572493758.09,37276,Public,Listed,JDEP.AS,2024,EUR,Large,Yes
+30,CFE (Compagnie d'Entreprises),Belgium,Belgium,Western Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,2702187178.97,3103000577.68,16818,Public,Listed,CFEC.BR,2024,EUR,Large,Yes
+31,Orange SA,France,France,Western Europe,Telecommunications,Integrated Telecom,Integrated Telecom,9745840843.23,30321320727.96,31505,Public,Listed,ORAN.PA,2024,EUR,Large,Yes
+32,Telefónica S.A.,Spain,Spain,Southern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,3984671416.68,7666942111.42,10694,Public,Listed,TELE.MC,2024,EUR,Large,Yes
+33,Andros,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Beverages,1171468332.58,1826846816.76,9512,Public,Listed,ANDR.PA,2024,EUR,Medium,Yes
+34,Gestamp,Spain,Spain,Southern Europe,Automotive/Transport,Rail,Rail Operator,5121785988.82,9200111615.76,18448,Public,Unlisted,,2024,EUR,Large,Yes
+35,Nemetschek SE,Germany,Germany,Central Europe,Technology,Internet,Digital Media,166627118.68,282613624.96,365,Private,Unlisted,,2024,EUR,Medium,Yes
+36,Gruppo Feltrinelli,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,1115122598.93,1126777872.71,7999,Public,Listed,GRUP.MI,2024,EUR,Medium,Yes
+37,Origin Enterprises,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Food & Beverage,Beverages,1058319416.28,915803656.82,4862,Public,Listed,ORIG.IR,2024,EUR,Medium,Yes
+38,Autostrade per l'Italia,Italy,Italy,Southern Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,1713371355.85,3548825904.17,6422,Public,Listed,AUTO.MI,2024,EUR,Large,Yes
+39,Creepy Jar,Poland,Poland,Central Europe,Technology,Software,Enterprise Software,2361081672.2,3575206912.24,5026,Public,Unlisted,,2024,EUR,Large,Yes
+40,Arla Foods,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,757338460.0,1032914974.74,3106,Private,Unlisted,,2024,EUR,Medium,Yes
+41,Just Eat Takeaway,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food & Beverage,Beverages,17847834.89,24448816.71,134,Private,Unlisted,,2024,EUR,Small,No
+42,Fendi,Italy,Italy,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,2076969127.87,1768014943.66,11532,Public,Unlisted,,2024,EUR,Large,Yes
+43,Polytec Group,Austria,Austria,Central Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,49689045.02,116464759.63,129,Private,Unlisted,,2024,EUR,Small,No
+44,VodafoneZiggo,Netherlands,Netherlands,Western Europe,Telecommunications,Integrated Telecom,Integrated Telecom,14508128833.99,40505768969.33,60509,Public,Listed,VODA.AS,2024,EUR,Large,Yes
+45,Landi Renzo,Italy,Italy,Southern Europe,Automotive/Transport,Shipping,Container Shipping,7806669949.12,19418642132.02,20575,Public,Listed,LAND.MI,2024,EUR,Large,Yes
+46,Stillfront Group,Sweden,Sweden,Northern Europe,Technology,Semiconductors,Semiconductor Devices,91057660.25,134036277.08,209,Private,Unlisted,,2024,EUR,Small,No
+47,Unipol Gruppo,Italy,Italy,Southern Europe,Financial Services,Banking,Commercial Banking,14299410090.12,154112752123.92,52940,Public,Listed,UNIP.MI,2024,EUR,Large,Yes
+48,Euralis,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,18734337114.34,20298406092.96,120373,Public,Listed,EURA.PA,2024,EUR,Large,Yes
+49,Polski Bank Komórek Macierzystych,Poland,Poland,Central Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,539684684.67,693447067.9,1605,Public,Listed,POLS.WA,2024,EUR,Medium,Yes
+50,MONETA Stavební Spořitelna,Czechia,Czechia,Central Europe,Financial Services,Banking,Investment Banking,237437085.51,2448084107.32,649,Private,Unlisted,,2024,EUR,Medium,Yes
+51,Rubeus Medical,Czechia,Czechia,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,41913235149.86,100043541704.99,124475,Public,Listed,RUBE.PR,2024,EUR,Large,Yes
+52,Sacyr S.A.,Spain,Spain,Southern Europe,Construction/Industrials,Machinery,Industrial Machinery,27533365.78,59213483.95,107,Private,Unlisted,,2024,EUR,Small,No
+53,Jost Werke,Germany,Germany,Central Europe,Construction/Industrials,Professional Services,Facility Services,44539209418.6,93485213910.0,298928,Public,Listed,JOST.DE,2024,EUR,Large,Yes
+54,Kesko Oyj,Finland,Finland,Northern Europe,Consumer Goods/Retail,Media & Entertainment,Media,8114983129.95,6888744822.19,64295,Public,Listed,KESK.HE,2024,EUR,Large,Yes
+55,Prada S.p.A.,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,48481295.52,38663509.92,317,Private,Unlisted,,2024,EUR,Small,No
+56,Komerční banka,Czechia,Czechia,Central Europe,Financial Services,Insurance,Reinsurance,803911978.16,9439751433.45,1761,Public,Listed,KOME.PR,2024,EUR,Medium,Yes
+57,Paulig Group,Finland,Finland,Northern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,2345891665.39,1959545923.37,13930,Public,Listed,PAUL.HE,2024,EUR,Large,Yes
+58,Red Bull GmbH,Austria,Austria,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,532612759.42,780599440.12,4482,Public,Listed,REDB.VI,2024,EUR,Medium,Yes
+59,Kojamo Oyj,Finland,Finland,Northern Europe,Construction/Industrials,Machinery,Agricultural Machinery,40070713.85,54639597.29,224,Private,Unlisted,,2024,EUR,Small,No
+60,CaixaBank,Spain,Spain,Southern Europe,Financial Services,Capital Markets,Exchange / Clearing,271344677.4,3535668329.63,908,Public,Listed,CAIX.MC,2024,EUR,Medium,Yes
+61,Antibiotice Iasi,Romania,Romania,Eastern Europe,Healthcare/Pharma,Biotechnology,Biotech,56999854.04,109173374.0,133,Private,Unlisted,,2024,EUR,Small,No
+62,Optiver,Netherlands,Netherlands,Western Europe,Financial Services,Asset Management,Asset Management,7773513224.77,69671594439.27,20235,Public,Listed,OPTI.AS,2024,EUR,Large,Yes
+63,Rovi Laboratorios,Spain,Spain,Southern Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,641735110.56,1092720774.32,3161,Private,Unlisted,,2024,EUR,Medium,Yes
+64,Tubacex SA,Spain,Spain,Southern Europe,Manufacturing,Metals & Mining,Non-Ferrous Metals,271262910.88,458631945.12,894,Private,Unlisted,,2024,EUR,Medium,Yes
+65,Eiffel Energy Transition,France,France,Western Europe,Energy/Utilities,Renewable Energy,Solar,44973329948.04,145058134822.25,70441,Public,Listed,EIFF.PA,2024,EUR,Large,Yes
+66,Transgaz,Romania,Romania,Eastern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,2448451486.11,8757284334.25,2759,Private,Unlisted,,2024,EUR,Large,Yes
+67,Telenet Group,Belgium,Belgium,Western Europe,Telecommunications,Satellite,Satellite Services,89146260245.2,143584227406.42,207802,Public,Listed,TELE.BR,2024,EUR,Large,Yes
+68,Alpha Bank,Greece,Greece,Southern Europe,Financial Services,Asset Management,Asset Management,1145114705.73,18452170398.81,4249,Private,Unlisted,,2024,EUR,Medium,Yes
+69,Polimex Mostostal,Poland,Poland,Central Europe,Construction/Industrials,Aerospace & Defense,Defense,1051331198.29,1889307301.11,4730,Private,Unlisted,,2024,EUR,Medium,Yes
+70,DSV A/S,Denmark,Denmark,Northern Europe,Automotive/Transport,Rail,Rail Operator,31280314750.82,73936415265.61,122322,Public,Listed,DSVA.CO,2024,EUR,Large,Yes
+71,Hannover Rück SE,Germany,Germany,Central Europe,Financial Services,Insurance,Life Insurance,34994606679.45,689669577078.14,78453,Public,Listed,HANN.DE,2024,EUR,Large,Yes
+72,Neoen SA,France,France,Western Europe,Energy/Utilities,Renewable Energy,Solar,3622982261.72,10508370808.82,2334,Public,Listed,NEOE.PA,2024,EUR,Large,Yes
+73,Yoplait,France,France,Western Europe,Consumer Goods/Retail,Food Retail,Supermarkets,744026125.29,1323013241.34,6645,Public,Listed,YOPL.PA,2024,EUR,Medium,Yes
+74,Handelsbanken,Sweden,Sweden,Northern Europe,Financial Services,Banking,Commercial Banking,18337110152.74,356401323353.94,48513,Public,Listed,HAND.ST,2024,EUR,Large,Yes
+75,Novo Nordisk,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,34583877.41,71724352.86,158,Private,Unlisted,,2024,EUR,Small,No
+76,OMV Petrom,Romania,Romania,Eastern Europe,Energy/Utilities,Water Utilities,Water & Waste,603739992.58,1192072426.47,734,Private,Unlisted,,2024,EUR,Medium,Yes
+77,Coolblue,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,3621227843.32,6452154603.94,21671,Public,Listed,COOL.AS,2024,EUR,Large,Yes
+78,JYSK,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,28755660.32,47832385.79,112,Private,Unlisted,,2024,EUR,Small,No
+79,Auchan Retail France,France,France,Western Europe,Consumer Goods/Retail,Personal Products,Cosmetics,31099162485.74,52340679711.9,181280,Public,Listed,AUCH.PA,2024,EUR,Large,Yes
+80,Uponor Oyj,Finland,Finland,Northern Europe,Construction/Industrials,Construction,General Contracting,23701843.05,41070777.52,85,Private,Unlisted,,2024,EUR,Small,No
+81,Crédit Agricole S.A.,France,France,Western Europe,Financial Services,Insurance,Reinsurance,62352035.5,963781488.32,234,Public,Listed,CRÉD.PA,2024,EUR,Small,No
+82,Hensoldt AG,Germany,Germany,Central Europe,Construction/Industrials,Real Estate,Commercial Real Estate,3667308490.77,4210214449.59,11562,Public,Listed,HENS.DE,2024,EUR,Large,Yes
+83,Ernsting's family,Germany,Germany,Central Europe,Consumer Goods/Retail,Food Retail,Supermarkets,5189081377.85,5478955230.38,33372,Public,Listed,ERNS.DE,2024,EUR,Large,Yes
+84,SNP Schneider-Neureither,Germany,Germany,Central Europe,Technology,IT Services,IT Consulting,232513175.3,188320002.34,295,Private,Unlisted,,2024,EUR,Medium,Yes
+85,Merlin Properties,Spain,Spain,Southern Europe,Construction/Industrials,Professional Services,Facility Services,61106447.58,64098428.63,402,Private,Unlisted,,2024,EUR,Small,No
+86,Nobina AB,Sweden,Sweden,Northern Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,395134239.56,941047304.54,1627,Public,Listed,NOBI.ST,2024,EUR,Medium,Yes
+87,argenx SE,Belgium,Belgium,Western Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,97537952.31,140087997.12,292,Private,Unlisted,,2024,EUR,Small,No
+88,Comp S.A.,Poland,Poland,Central Europe,Technology,Software,Enterprise Software,22456230361.14,40944642039.53,41640,Public,Listed,COMP.WA,2024,EUR,Large,Yes
+89,Net4Gas,Czechia,Czechia,Central Europe,Energy/Utilities,Renewable Energy,Solar,174214321.97,757498831.53,194,Private,Unlisted,,2024,EUR,Medium,No
+90,Init Innovation in Traffic Systems,Germany,Germany,Central Europe,Technology,IT Services,Managed Services,1448568126.52,1836056789.54,3587,Public,Listed,INIT.DE,2024,EUR,Medium,Yes
+91,Cancom SE,Germany,Germany,Central Europe,Technology,IT Services,IT Consulting,34272191.51,28083522.18,100,Private,Unlisted,,2024,EUR,Small,No
+92,Mapfre S.A.,Spain,Spain,Southern Europe,Financial Services,Diversified Financials,Holding Company,9779959692.45,80813725471.09,24431,Public,Listed,MAPF.MC,2024,EUR,Large,Yes
+93,SAP SE,Germany,Germany,Central Europe,Technology,Semiconductors,Semiconductor Devices,878751789.95,1732456923.31,2632,Private,Unlisted,,2024,EUR,Medium,Yes
+94,Rába Group,Hungary,Hungary,Central Europe,Automotive/Transport,Rail,Rail Operator,928619278.14,1888795449.09,3475,Public,Listed,RÁBA.BU,2024,EUR,Medium,Yes
+95,Clarins Groupe,France,France,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,165137738.59,237934781.14,633,Public,Listed,CLAR.PA,2024,EUR,Medium,Yes
+96,Loomis AB,Sweden,Sweden,Northern Europe,Financial Services,Insurance,Reinsurance,15066579752.14,291551015168.25,58926,Public,Listed,LOOM.ST,2024,EUR,Large,Yes
+97,Conad,Italy,Italy,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,5040604998.43,3559190286.29,22870,Public,Listed,CONA.MI,2024,EUR,Large,Yes
+98,Rossmann,Germany,Germany,Central Europe,Consumer Goods/Retail,Food Retail,Discount Retail,71373832858.24,92362849593.17,386978,Public,Listed,ROSS.DE,2024,EUR,Large,Yes
+99,Subsea 7,Luxembourg,Luxembourg,Western Europe,Energy/Utilities,Renewable Energy,Solar,42457196.01,78742347.84,46,Private,Unlisted,,2024,EUR,Small,No
+100,Sev.en Energy,Czechia,Czechia,Central Europe,Energy/Utilities,Renewable Energy,Wind,192865514.92,431654994.74,332,Public,Listed,SEVE.PR,2024,EUR,Medium,Yes
+101,InPost (Netherlands ops),Netherlands,Netherlands,Western Europe,Automotive/Transport,Logistics,Postal & Parcel,672872495.06,808673507.74,2349,Private,Unlisted,,2024,EUR,Medium,Yes
+102,Davide Campari-Milano,Italy,Italy,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,43913926409.42,74344772990.76,252629,Public,Listed,DAVI.MI,2024,EUR,Large,Yes
+103,Poste Italiane,Italy,Italy,Southern Europe,Financial Services,Asset Management,Asset Management,2106491108.96,31865192221.92,4204,Public,Listed,POST.MI,2024,EUR,Large,Yes
+104,Permanent TSB,Ireland,Ireland,Western Europe,Financial Services,Diversified Financials,Holding Company,2098231945.42,19819418754.16,5715,Public,Listed,PERM.IR,2024,EUR,Large,Yes
+105,Šiaulių Bankas,Lithuania,Lithuania,Northern Europe,Financial Services,Capital Markets,Exchange / Clearing,500992645.78,4167043794.59,1933,Private,Unlisted,,2024,EUR,Medium,Yes
+106,Tieto­Evry,Finland,Finland,Northern Europe,Technology,Software,Consumer Software,10098909869.7,17597237926.43,12844,Private,Unlisted,,2024,EUR,Large,Yes
+107,ANY Security Printing,Hungary,Hungary,Central Europe,Construction/Industrials,Machinery,Industrial Machinery,260210810.72,403920166.86,1665,Public,Listed,ANYS.BU,2024,EUR,Medium,Yes
+108,Boehringer Ingelheim,Germany,Germany,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,4898118028.46,7661978035.78,18735,Public,Listed,BOEH.DE,2024,EUR,Large,Yes
+109,IMA Group,Italy,Italy,Southern Europe,Construction/Industrials,Construction,Civil Engineering,691806690.1,1418775147.93,3247,Public,Listed,IMAG.MI,2024,EUR,Medium,Yes
+110,ING Group,Netherlands,Netherlands,Western Europe,Financial Services,Insurance,P&C Insurance,44694310517.16,637128918159.8,70746,Public,Listed,INGG.AS,2024,EUR,Large,Yes
+111,Wirtgen Group,Germany,Germany,Central Europe,Construction/Industrials,Professional Services,Facility Services,9370494256.78,15288955944.98,36956,Public,Listed,WIRT.DE,2024,EUR,Large,Yes
+112,ArcelorMittal (Luxembourg),Luxembourg,Luxembourg,Western Europe,Manufacturing,Chemicals,Specialty Chemicals,14879022878.89,31726419734.71,33283,Public,Listed,ARCE.LU,2024,EUR,Large,Yes
+113,De'Longhi S.p.A.,Italy,Italy,Southern Europe,Consumer Goods/Retail,Household Products,Household Goods,90206097.93,107555008.4,322,Private,Unlisted,,2024,EUR,Small,No
+114,Mango,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,6029723039.99,5718443217.94,33711,Public,Listed,MANG.MC,2024,EUR,Large,Yes
+115,Super Bock Group,Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Household Products,Household Goods,130277230.5,174684319.83,650,Private,Unlisted,,2024,EUR,Small,No
+116,Ferrari N.V.,Italy,Italy,Southern Europe,Automotive/Transport,Airlines,Passenger Airline,1788990505.06,3658371728.89,6782,Public,Listed,FERR.MI,2024,EUR,Large,Yes
+117,Iliad Italia,Italy,Italy,Southern Europe,Telecommunications,Wireless Telecom,Mobile Operator,16961478.47,37593460.47,36,Private,Unlisted,,2024,EUR,Small,No
+118,Banco Santander,Spain,Spain,Southern Europe,Financial Services,Banking,Commercial Banking,1151834360.19,15001771724.47,4531,Private,Unlisted,,2024,EUR,Medium,Yes
+119,ITA Airways,Italy,Italy,Southern Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,224112300.0,417216524.66,569,Private,Unlisted,,2024,EUR,Medium,Yes
+120,Marimekko Oyj,Finland,Finland,Northern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,7630289918.65,6531771401.14,66831,Private,Unlisted,,2024,EUR,Large,Yes
+121,SES S.A.,Luxembourg,Luxembourg,Western Europe,Telecommunications,Telecom Equipment,Network Equipment,776404387.91,1540261589.75,3004,Private,Unlisted,,2024,EUR,Medium,Yes
+122,Irish Continental Group,Ireland,Ireland,Western Europe,Automotive/Transport,Airlines,Passenger Airline,8750730593.92,20828871303.44,32202,Private,Unlisted,,2024,EUR,Large,Yes
+123,OTE Group,Greece,Greece,Southern Europe,Telecommunications,Telecom Equipment,Network Equipment,8772223238.54,16894258741.09,36694,Public,Listed,OTEG.AT,2024,EUR,Large,Yes
+124,LPP S.A.,Poland,Poland,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,165610952.76,161148340.71,663,Public,Listed,LPPS.WA,2024,EUR,Medium,Yes
+125,Gerresheimer AG,Germany,Germany,Central Europe,Manufacturing,Industrial Gases,Industrial Gases,3524550058.14,6306778201.17,17437,Public,Listed,GERR.DE,2024,EUR,Large,Yes
+126,Boliden AB,Sweden,Sweden,Northern Europe,Manufacturing,Paper & Packaging,Packaging,225536279.55,397339724.7,570,Private,Unlisted,,2024,EUR,Medium,Yes
+127,Iveco Group N.V.,Italy,Italy,Southern Europe,Automotive/Transport,Airport Operator,Airport Operator,23519417253.43,30898699173.08,61357,Public,Listed,IVEC.MI,2024,EUR,Large,Yes
+128,Albert Heijn,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,157569750.24,212053616.41,1346,Private,Unlisted,,2024,EUR,Medium,Yes
+129,DiaSorin S.p.A.,Italy,Italy,Southern Europe,Healthcare/Pharma,Healthcare Services,Hospital Operator,678366561.58,981285533.58,1829,Private,Unlisted,,2024,EUR,Medium,Yes
+130,Verimatrix,France,France,Western Europe,Technology,Software,Consumer Software,211601868.37,389333883.91,606,Private,Unlisted,,2024,EUR,Medium,Yes
+131,CNH Industrial N.V.,Italy,Italy,Southern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,2057546532.62,2878936444.71,7005,Public,Unlisted,,2024,EUR,Large,Yes
+132,AAK AB,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,120649706.39,91240040.64,605,Private,Unlisted,,2024,EUR,Small,No
+133,Flow Traders,Netherlands,Netherlands,Western Europe,Financial Services,Insurance,Life Insurance,13836919924.54,261804184172.35,54344,Public,Unlisted,,2024,EUR,Large,Yes
+134,Angelini Pharma,Italy,Italy,Southern Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,2890047296.54,6374364970.58,13976,Public,Listed,ANGE.MI,2024,EUR,Large,Yes
+135,Atlas Copco,Sweden,Sweden,Northern Europe,Construction/Industrials,Real Estate,Residential Real Estate,59210279954.09,127196024026.07,225712,Public,Listed,ATLA.ST,2024,EUR,Large,Yes
+136,InVivo Group,France,France,Western Europe,Consumer Goods/Retail,Food Retail,Supermarkets,6171291945.55,6394679870.23,37224,Private,Unlisted,,2024,EUR,Large,Yes
+137,Edison SpA,Italy,Italy,Southern Europe,Energy/Utilities,Electric Utilities,Power Generation,583128940.65,2369427980.97,510,Private,Unlisted,,2024,EUR,Medium,Yes
+138,Knorr-Bremse AG,Germany,Germany,Central Europe,Automotive/Transport,Logistics,Postal & Parcel,8391236528.8,19761894976.81,25282,Public,Listed,KNOR.DE,2024,EUR,Large,Yes
+139,RHI Magnesita,Austria,Austria,Central Europe,Manufacturing,Metals & Mining,Steel,35601082706.17,55003541198.96,152354,Public,Listed,RHIM.VI,2024,EUR,Large,Yes
+140,Viohalco,Greece,Greece,Southern Europe,Manufacturing,Industrial Gases,Industrial Gases,21964663.73,26241204.3,75,Public,Listed,VIOH.AT,2024,EUR,Small,No
+141,Enea S.A.,Poland,Poland,Central Europe,Energy/Utilities,Renewable Energy,Solar,58367421.39,242219171.03,39,Private,Unlisted,,2024,EUR,Small,No
+142,Accor SA,France,France,Western Europe,Consumer Goods/Retail,Media & Entertainment,Media,86464291569.65,97699570839.11,541113,Private,Unlisted,,2024,EUR,Large,Yes
+143,Voltalia SA,France,France,Western Europe,Energy/Utilities,Water Utilities,Water & Waste,173436529.96,400134360.63,129,Public,Listed,VOLT.PA,2024,EUR,Medium,Yes
+144,Ubisoft Entertainment,France,France,Western Europe,Technology,IT Services,IT Consulting,4670067361.39,8597500209.11,10409,Public,Listed,UBIS.PA,2024,EUR,Large,Yes
+145,Desigual,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,35762770956.63,54644354577.32,199587,Public,Listed,DESI.MC,2024,EUR,Large,Yes
+146,Galeria Karstadt Kaufhof,Germany,Germany,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,40062578988.72,50903855098.04,213688,Public,Listed,GALE.DE,2024,EUR,Large,Yes
+147,Sopra Steria,France,France,Western Europe,Technology,Hardware,Electronic Components,3169443354.37,4733976128.32,6527,Public,Listed,SOPR.PA,2024,EUR,Large,Yes
+148,Fugro N.V.,Netherlands,Netherlands,Western Europe,Energy/Utilities,Water Utilities,Water & Waste,235334510.5,1045443240.33,309,Private,Unlisted,,2024,EUR,Medium,Yes
+149,WashTec AG,Germany,Germany,Central Europe,Construction/Industrials,Construction,General Contracting,18273267224.14,34020139167.04,102517,Public,Listed,WASH.DE,2024,EUR,Large,Yes
+150,Avast (Czechia ops),Czechia,Czechia,Central Europe,Technology,Hardware,Electronic Components,249895991.13,312389929.77,326,Public,Listed,AVAS.PR,2024,EUR,Medium,Yes
+151,Viscofan Group,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,411284583.29,336898700.86,1719,Private,Unlisted,,2024,EUR,Medium,Yes
+152,Vion Food Group,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,16910539620.22,20391234839.62,126475,Public,Listed,VION.AS,2024,EUR,Large,Yes
+153,Saint-Gobain,France,France,Western Europe,Manufacturing,Chemicals,Commodity Chemicals,203066748.77,322954318.62,590,Private,Unlisted,,2024,EUR,Medium,Yes
+154,OP Financial Group,Finland,Finland,Northern Europe,Financial Services,Diversified Financials,Holding Company,39592504.88,461931068.01,141,Private,Unlisted,,2024,EUR,Small,No
+155,Lafarge France,France,France,Western Europe,Construction/Industrials,Aerospace & Defense,Defense,674174011.7,1447310853.6,3068,Public,Listed,LAFA.PA,2024,EUR,Medium,Yes
+156,UCB S.A.,Belgium,Belgium,Western Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,11597725828.75,19195591601.91,33943,Public,Listed,UCBS.BR,2024,EUR,Large,Yes
+157,Salzgitter AG,Germany,Germany,Central Europe,Manufacturing,Chemicals,Commodity Chemicals,23978263871.22,43242285196.97,116786,Public,Listed,SALZ.DE,2024,EUR,Large,Yes
+158,Inwit S.p.A.,Italy,Italy,Southern Europe,Telecommunications,Telecom Equipment,Network Equipment,17742055007.79,32181781318.16,38522,Public,Listed,INWI.MI,2024,EUR,Large,Yes
+159,ESB Group,Ireland,Ireland,Western Europe,Energy/Utilities,Oil & Gas E&P,Upstream,8609204284.38,23916272121.02,8634,Public,Listed,ESBG.IR,2024,EUR,Large,Yes
+160,Eiffage SA,France,France,Western Europe,Construction/Industrials,Construction,Civil Engineering,484064789.04,782676231.46,2703,Public,Listed,EIFF.PA,2024,EUR,Medium,Yes
+161,Lavazza Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Media & Entertainment,Media,63535929.83,72012593.79,274,Private,Unlisted,,2024,EUR,Small,No
+162,Slovenské elektrárne,Slovakia,Slovakia,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,2429923796.24,10100740400.06,1394,Public,Listed,SLOV.EU,2024,EUR,Large,Yes
+163,Snam S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,1535756452.1,5823842306.64,839,Public,Listed,SNAM.MI,2024,EUR,Large,Yes
+164,Gecina SA,France,France,Western Europe,Construction/Industrials,Real Estate,Residential Real Estate,831636680.93,1699651260.08,2681,Public,Listed,GECI.PA,2024,EUR,Medium,Yes
+165,Rubis SCA,France,France,Western Europe,Energy/Utilities,Gas Utilities,Gas Distribution,5902063097.4,20244975161.43,6943,Public,Listed,RUBI.PA,2024,EUR,Large,Yes
+166,Stabilus SE,Germany,Germany,Central Europe,Construction/Industrials,Construction,Civil Engineering,672880462.5,1091907094.36,3514,Private,Unlisted,,2024,EUR,Medium,Yes
+167,Forte Furniture,Poland,Poland,Central Europe,Consumer Goods/Retail,Food Retail,Discount Retail,409214436.51,453897475.23,2646,Private,Unlisted,,2024,EUR,Medium,Yes
+168,CMB.TECH,Belgium,Belgium,Western Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,1960723374.96,4832108705.24,6325,Public,Listed,CMBT.BR,2024,EUR,Large,Yes
+169,Euronext N.V.,Netherlands,Netherlands,Western Europe,Financial Services,Banking,Investment Banking,65598772.89,1231185910.39,119,Public,Listed,EURO.AS,2024,EUR,Small,No
+170,Novozymes,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,238719222.57,284660394.84,1043,Public,Listed,NOVO.CO,2024,EUR,Medium,Yes
+171,Heijmans N.V.,Netherlands,Netherlands,Western Europe,Construction/Industrials,Machinery,Agricultural Machinery,38438528454.32,44110910573.98,146034,Public,Listed,HEIJ.AS,2024,EUR,Large,Yes
+172,STMicroelectronics (Italy ops),Italy,Italy,Southern Europe,Technology,Software,Enterprise Software,3975411825.08,3353071701.72,6360,Public,Listed,STMI.MI,2024,EUR,Large,Yes
+173,Vienna Insurance Group,Austria,Austria,Central Europe,Financial Services,Banking,Commercial Banking,445756718.44,8085273286.63,1097,Public,Listed,VIEN.VI,2024,EUR,Medium,Yes
+174,Bilstein Group,Germany,Germany,Central Europe,Automotive/Transport,Logistics,Postal & Parcel,275912714.4,313038431.76,1151,Public,Listed,BILS.DE,2024,EUR,Medium,Yes
+175,Adyen N.V.,Netherlands,Netherlands,Western Europe,Technology,Hardware,Electronic Components,315307777.63,442853716.5,610,Public,Listed,ADYE.AS,2024,EUR,Medium,Yes
+176,Zumtobel Group,Austria,Austria,Central Europe,Construction/Industrials,Construction,General Contracting,673649314.65,875574079.8,3772,Private,Unlisted,,2024,EUR,Medium,Yes
+177,Air France-KLM,France,France,Western Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,2921051344.16,3283563747.27,13124,Public,Listed,AIRF.PA,2024,EUR,Large,Yes
+178,Apetit Oyj,Finland,Finland,Northern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,27215262.58,21699119.44,162,Public,Listed,APET.HE,2024,EUR,Small,No
+179,Mahle GmbH,Germany,Germany,Central Europe,Automotive/Transport,Airport Operator,Airport Operator,24577966547.12,45180231200.33,61906,Public,Listed,MAHL.DE,2024,EUR,Large,Yes
+180,Basic-Fit N.V.,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,18079072.82,17102425.8,140,Private,Unlisted,,2024,EUR,Small,No
+181,Spuerkeess,Luxembourg,Luxembourg,Western Europe,Financial Services,Banking,Commercial Banking,1017825604.9,19140754228.5,2140,Private,Unlisted,,2024,EUR,Medium,Yes
+182,Lifco AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Aerospace & Defense,Defense,4925021824.42,8657345408.91,34100,Public,Listed,LIFC.ST,2024,EUR,Large,Yes
+183,B Medical Systems,Luxembourg,Luxembourg,Western Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,246494623.64,419148222.25,1121,Public,Listed,BMED.LU,2024,EUR,Medium,Yes
+184,Play Communications,Poland,Poland,Central Europe,Telecommunications,Satellite,Satellite Services,163851696.03,368826957.45,420,Public,Listed,PLAY.WA,2024,EUR,Medium,Yes
+185,Recordati Industria Chimica,Italy,Italy,Southern Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,949632267.51,1733216793.3,3281,Private,Unlisted,,2024,EUR,Medium,Yes
+186,Borges International Group,Spain,Spain,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,1770147423.72,2153165621.27,14031,Public,Listed,BORG.MC,2024,EUR,Large,Yes
+187,Maersk (A.P. Møller-Mærsk),Denmark,Denmark,Northern Europe,Automotive/Transport,Rail,Rail Operator,201184320.5,395431964.55,1093,Public,Listed,MAER.CO,2024,EUR,Medium,Yes
+188,Ryanair Holdings,Ireland,Ireland,Western Europe,Automotive/Transport,Rail,Rail Operator,34710156536.15,73309498737.86,128099,Public,Listed,RYAN.IR,2024,EUR,Large,Yes
+189,SGL Carbon SE,Germany,Germany,Central Europe,Manufacturing,Metals & Mining,Steel,2585746063.6,4549410122.82,12091,Public,Listed,SGLC.DE,2024,EUR,Large,Yes
+190,Eni S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Oil & Gas E&P,Upstream,6203466689.49,14709828946.75,9135,Public,Listed,ENIS.MI,2024,EUR,Large,Yes
+191,Pomona Group,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,170849178.87,237939716.96,1396,Public,Listed,POMO.PA,2024,EUR,Medium,Yes
+192,PKN Orlen,Poland,Poland,Central Europe,Energy/Utilities,Gas Utilities,Gas Distribution,811864801.65,3344194114.54,605,Private,Unlisted,,2024,EUR,Medium,Yes
+193,FACC AG,Austria,Austria,Central Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,2255425332.9,3801407711.95,12547,Public,Listed,FACC.VI,2024,EUR,Large,Yes
+194,Hexagon AB,Sweden,Sweden,Northern Europe,Technology,Software,Enterprise Software,38307956.31,54094771.09,112,Private,Unlisted,,2024,EUR,Small,No
+195,Pronovias,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,127630976.52,221377671.42,696,Private,Unlisted,,2024,EUR,Small,No
+196,Andritz AG,Austria,Austria,Central Europe,Construction/Industrials,Machinery,Agricultural Machinery,8745618190.83,10305609117.27,34245,Private,Unlisted,,2024,EUR,Large,Yes
+197,Kloeckner Pentaplast,Germany,Germany,Central Europe,Manufacturing,Chemicals,Commodity Chemicals,1053030382.88,2209170151.13,5082,Public,Listed,KLOE.DE,2024,EUR,Medium,Yes
+198,Sioen Industries,Belgium,Belgium,Western Europe,Manufacturing,Paper & Packaging,Paper Products,2468660488.82,4599641648.47,11776,Public,Listed,SIOE.BR,2024,EUR,Large,Yes
+199,KBC Group,Belgium,Belgium,Western Europe,Financial Services,Banking,Investment Banking,5970734425.61,118437595460.0,20258,Public,Listed,KBCG.BR,2024,EUR,Large,Yes
+200,Linet Group,Czechia,Czechia,Central Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,210216151.08,278254871.7,696,Private,Unlisted,,2024,EUR,Medium,Yes
+201,Penny Markt,Germany,Germany,Central Europe,Consumer Goods/Retail,E-Commerce,Online Retail,37393419533.39,57045876659.46,168936,Public,Listed,PENN.DE,2024,EUR,Large,Yes
+202,Cyta,Cyprus,Cyprus,Southern Europe,Telecommunications,Integrated Telecom,Integrated Telecom,1164117599.05,3016354005.98,3142,Public,Listed,CYTA.EU,2024,EUR,Medium,Yes
+203,Jumbo S.A.,Greece,Greece,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,42996374.36,52317496.5,242,Private,Unlisted,,2024,EUR,Small,No
+204,William Demant Holding,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,5347830810.64,9604332816.8,27874,Public,Listed,WILL.CO,2024,EUR,Large,Yes
+205,Magna Steyr (Austria ops),Austria,Austria,Central Europe,Automotive/Transport,Rail,Rail Operator,492090361.78,1094352009.52,2583,Public,Listed,MAGN.VI,2024,EUR,Medium,Yes
+206,Bauhaus AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,20325083742.49,25525819007.94,84615,Public,Listed,BAUH.DE,2024,EUR,Large,Yes
+207,Eramet SA,France,France,Western Europe,Manufacturing,Chemicals,Commodity Chemicals,4190521044.01,8867790487.51,13196,Public,Listed,ERAM.PA,2024,EUR,Large,Yes
+208,ING Bank Śląski,Poland,Poland,Central Europe,Financial Services,Insurance,Reinsurance,44134445.26,391379644.59,150,Private,Unlisted,,2024,EUR,Small,No
+209,Transelectrica,Romania,Romania,Eastern Europe,Energy/Utilities,Integrated Oil & Gas,Integrated Oil & Gas,136823654.75,246660239.58,228,Public,Listed,TRAN.BVB,2024,EUR,Small,No
+210,Evotec SE,Germany,Germany,Central Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,425196228.03,876180537.59,1086,Public,Listed,EVOT.DE,2024,EUR,Medium,Yes
+211,ABN AMRO Bank,Netherlands,Netherlands,Western Europe,Financial Services,Banking,Investment Banking,19036626617.69,290897934450.3,38465,Public,Listed,ABNA.AS,2024,EUR,Large,Yes
+212,Schaeffler AG,Germany,Germany,Central Europe,Automotive/Transport,Logistics,Postal & Parcel,113732421.35,172051477.38,544,Private,Unlisted,,2024,EUR,Small,No
+213,Ion Beam Applications,Belgium,Belgium,Western Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,27504772842.37,27543527128.86,78260,Public,Listed,IONB.BR,2024,EUR,Large,Yes
+214,ALK-Abelló,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Healthcare Services,Hospital Operator,16440442.12,18611943.85,83,Private,Unlisted,,2024,EUR,Small,No
+215,Zagrebačka banka,Croatia,Croatia,Southern Europe,Financial Services,Insurance,Life Insurance,208255829.33,2882665495.09,663,Private,Unlisted,,2024,EUR,Medium,Yes
+216,Rewe Group,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Beverages,5119388509.35,7150693667.0,26500,Public,Listed,REWE.DE,2024,EUR,Large,Yes
+217,Neste Corporation,Finland,Finland,Northern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,442149292.79,1176004102.07,699,Private,Unlisted,,2024,EUR,Medium,Yes
+218,Romgaz,Romania,Romania,Eastern Europe,Energy/Utilities,Oil & Gas E&P,Upstream,37303769307.18,155697331291.76,44612,Public,Listed,ROMG.BVB,2024,EUR,Large,Yes
+219,Colas SA,France,France,Western Europe,Construction/Industrials,Construction,General Contracting,14099728046.14,17753361063.11,48436,Public,Listed,COLA.PA,2024,EUR,Large,Yes
+220,Velux Group,Denmark,Denmark,Northern Europe,Construction/Industrials,Construction,Civil Engineering,907429597.76,1468856775.7,5670,Public,Listed,VELU.CO,2024,EUR,Medium,Yes
+221,Salvatore Ferragamo,Italy,Italy,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,312802045.98,501293794.7,2510,Public,Listed,SALV.MI,2024,EUR,Medium,Yes
+222,Otto Group,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,92370393310.85,69507810953.47,298388,Private,Unlisted,,2024,EUR,Large,Yes
+223,CAF Construcciones,Spain,Spain,Southern Europe,Automotive/Transport,Logistics,Postal & Parcel,3204404265.89,6395806215.68,10116,Public,Listed,CAFC.MC,2024,EUR,Large,Yes
+224,Sydbank,Denmark,Denmark,Northern Europe,Financial Services,Asset Management,Asset Management,231216442.31,3313879811.92,380,Public,Listed,SYDB.CO,2024,EUR,Medium,Yes
+225,Société Générale,France,France,Western Europe,Financial Services,Capital Markets,Exchange / Clearing,16951714748.22,245917955007.06,48284,Public,Listed,SOCI.PA,2024,EUR,Large,Yes
+226,Bilfinger SE,Germany,Germany,Central Europe,Construction/Industrials,Professional Services,Facility Services,1143310232.84,1912469095.53,6714,Private,Unlisted,,2024,EUR,Medium,Yes
+227,Pipelife Eesti,Estonia,Estonia,Northern Europe,Construction/Industrials,Building Products,Building Materials,40274267.66,55311419.34,208,Private,Unlisted,,2024,EUR,Small,No
+228,SBM Offshore,Netherlands,Netherlands,Western Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,62096539170.53,205415995814.66,97375,Public,Listed,SBMO.AS,2024,EUR,Large,Yes
+229,Lundin Energy,Sweden,Sweden,Northern Europe,Energy/Utilities,Water Utilities,Water & Waste,19161008.94,81976525.73,35,Private,Unlisted,,2024,EUR,Small,No
+230,Brembo S.p.A.,Italy,Italy,Southern Europe,Automotive/Transport,Shipping,Container Shipping,1854091711.54,2239873730.54,5494,Public,Unlisted,,2024,EUR,Large,Yes
+231,Żabka Polska,Poland,Poland,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,5001047879.11,8299028498.34,39259,Public,Unlisted,,2024,EUR,Large,Yes
+232,Liebherr Group,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Agricultural Machinery,2067360371.9,2348236714.76,11347,Public,Listed,LIEB.DE,2024,EUR,Large,Yes
+233,Moneta Money Bank,Czechia,Czechia,Central Europe,Financial Services,Insurance,Life Insurance,436340662.14,5309716879.37,1433,Private,Unlisted,,2024,EUR,Medium,Yes
+234,Laurent-Perrier,France,France,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,11498699492.02,13506395083.55,71041,Private,Unlisted,,2024,EUR,Large,Yes
+235,Hochtief AG,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Industrial Machinery,3795214262.07,3853538272.57,24319,Public,Listed,HOCH.DE,2024,EUR,Large,Yes
+236,Stada Arzneimittel,Germany,Germany,Central Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,1283673097.35,2863427931.79,4904,Public,Listed,STAD.DE,2024,EUR,Medium,Yes
+237,Webuild S.p.A.,Italy,Italy,Southern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,518432563.37,782122937.91,1897,Private,Unlisted,,2024,EUR,Medium,Yes
+238,Takkt AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Beverages,156950890.64,224323754.44,963,Public,Listed,TAKK.DE,2024,EUR,Medium,Yes
+239,BioMérieux SA,France,France,Western Europe,Healthcare/Pharma,Biotechnology,Biotech,2639086502.8,3954200315.58,13014,Public,Listed,BIOM.PA,2024,EUR,Large,Yes
+240,Mercadona,Spain,Spain,Southern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,35666022589.58,54426581623.54,110545,Public,Listed,MERC.MC,2024,EUR,Large,Yes
+241,1&1 AG,Germany,Germany,Central Europe,Telecommunications,Telecom Equipment,Network Equipment,247620474.44,674963595.84,887,Public,Listed,11AG.DE,2024,EUR,Medium,Yes
+242,Tallink Grupp,Estonia,Estonia,Northern Europe,Automotive/Transport,Logistics,Postal & Parcel,288296297.44,625359952.83,1169,Private,Unlisted,,2024,EUR,Medium,Yes
+243,Endesa S.A.,Spain,Spain,Southern Europe,Energy/Utilities,Refining & Marketing,Downstream,742207743.5,3160108222.1,1227,Public,Listed,ENDE.MC,2024,EUR,Medium,Yes
+244,Cyfrowy Polsat,Poland,Poland,Central Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,10622109202.97,16424068598.75,25874,Public,Listed,CYFR.WA,2024,EUR,Large,Yes
+245,Alior Bank,Poland,Poland,Central Europe,Financial Services,Insurance,P&C Insurance,29930550926.34,538730997310.87,91143,Public,Listed,ALIO.WA,2024,EUR,Large,Yes
+246,Coloplast A/S,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,1027661987.62,1185902703.75,4672,Private,Unlisted,,2024,EUR,Medium,Yes
+247,Airbus SE,France,France,Western Europe,Construction/Industrials,Real Estate,Residential Real Estate,24022352885.77,35004894399.89,101797,Public,Listed,AIRB.PA,2024,EUR,Large,Yes
+248,Stellantis Italy,Italy,Italy,Southern Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,16094900766.82,24521570148.85,53783,Public,Listed,STEL.MI,2024,EUR,Large,Yes
+249,Kone Oyj,Finland,Finland,Northern Europe,Construction/Industrials,Professional Services,Facility Services,389029212.01,679462205.73,1933,Private,Unlisted,,2024,EUR,Medium,Yes
+250,Agfa-Gevaert,Belgium,Belgium,Western Europe,Technology,Hardware,Electronic Components,32043091.41,44009472.51,94,Private,Unlisted,,2024,EUR,Small,No
+251,Hugo Boss AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,757184295.72,1052411646.38,4958,Public,Listed,HUGO.DE,2024,EUR,Medium,Yes
+252,Amadeus Fire,Germany,Germany,Central Europe,Technology,Software,Enterprise Software,382734796.48,581309499.11,517,Private,Unlisted,,2024,EUR,Medium,Yes
+253,Pernod Ricard Europe,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,420879250.88,407724450.43,3356,Private,Unlisted,,2024,EUR,Medium,Yes
+254,Assystem,France,France,Western Europe,Technology,Internet,E-Commerce Platform,25990014114.11,26094963639.46,51264,Public,Listed,ASSY.PA,2024,EUR,Large,Yes
+255,Uniqa Insurance Group,Austria,Austria,Central Europe,Financial Services,Insurance,Reinsurance,677457122.07,7124432555.67,2577,Private,Unlisted,,2024,EUR,Medium,Yes
+256,ProSiebenSat.1 Media SE,Germany,Germany,Central Europe,Consumer Goods/Retail,Media & Entertainment,Media,21035700.23,22942947.57,133,Private,Unlisted,,2024,EUR,Small,No
+257,Akzo Nobel N.V.,Netherlands,Netherlands,Western Europe,Manufacturing,Chemicals,Commodity Chemicals,2063185898.84,3069099016.0,6919,Public,Listed,AKZO.AS,2024,EUR,Large,Yes
+258,Konecranes Plc,Finland,Finland,Northern Europe,Construction/Industrials,Construction,General Contracting,163829154.44,354997676.7,751,Public,Listed,KONE.HE,2024,EUR,Medium,Yes
+259,Budimex,Poland,Poland,Central Europe,Construction/Industrials,Real Estate,Residential Real Estate,177258378.0,260804741.19,587,Public,Listed,BUDI.WA,2024,EUR,Medium,Yes
+260,Beijer Ref,Sweden,Sweden,Northern Europe,Construction/Industrials,Construction,General Contracting,12693046382.43,15872333161.47,41501,Public,Listed,BEIJ.ST,2024,EUR,Large,Yes
+261,Egis Pharmaceuticals,Hungary,Hungary,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,3988843869.26,9759521808.57,13821,Public,Listed,EGIS.BU,2024,EUR,Large,Yes
+262,Norma Group,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Agricultural Machinery,1583897691.97,1712872274.37,11065,Public,Listed,NORM.DE,2024,EUR,Large,Yes
+263,Rexel,France,France,Western Europe,Construction/Industrials,Building Products,Building Materials,371252774.72,682895251.71,2216,Public,Listed,REXE.PA,2024,EUR,Medium,Yes
+264,Mondadori Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,4061700079.72,5403742448.2,13560,Private,Unlisted,,2024,EUR,Large,Yes
+265,Piaggio & C. S.p.A.,Italy,Italy,Southern Europe,Automotive/Transport,Logistics,Postal & Parcel,42074102.41,91565663.77,223,Private,Unlisted,,2024,EUR,Small,No
+266,NOS SGPS,Portugal,Portugal,Southern Europe,Telecommunications,Satellite,Satellite Services,958683336.12,2995572591.2,2007,Public,Listed,NOSS.LS,2024,EUR,Medium,Yes
+267,Hidroelectrica,Romania,Romania,Eastern Europe,Energy/Utilities,Renewable Energy,Wind,6224467180.11,21504682283.66,11663,Public,Listed,HIDR.BVB,2024,EUR,Large,Yes
+268,Grammer AG,Germany,Germany,Central Europe,Automotive/Transport,Auto Components,Tires,15864308082.79,39435615149.72,72890,Public,Listed,GRAM.DE,2024,EUR,Large,Yes
+269,Eurobank Ergasias,Greece,Greece,Southern Europe,Financial Services,Insurance,Reinsurance,6658538244.34,100576543534.99,13140,Public,Listed,EURO.AT,2024,EUR,Large,Yes
+270,WashTec (Italy ops),Italy,Italy,Southern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,25106105.78,43390027.42,149,Public,Listed,WASH.MI,2024,EUR,Small,No
+271,Safilo Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,1230784262.48,869643633.88,6787,Public,Listed,SAFI.MI,2024,EUR,Medium,Yes
+272,Delta Cafés,Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,166593843.27,168360767.87,897,Private,Unlisted,,2024,EUR,Medium,Yes
+273,Millennium BCP,Portugal,Portugal,Southern Europe,Financial Services,Insurance,Life Insurance,66860899.06,647622841.96,122,Private,Unlisted,,2024,EUR,Small,No
+274,TKH Group,Netherlands,Netherlands,Western Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,2394324837.36,2409074198.86,8136,Public,Listed,TKHG.AS,2024,EUR,Large,Yes
+275,Bulgari (LVMH Italy),Italy,Italy,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,150792992.47,162548376.89,1269,Public,Listed,BULG.MI,2024,EUR,Medium,Yes
+276,Umicore,Belgium,Belgium,Western Europe,Manufacturing,Paper & Packaging,Paper Products,1468466540.75,3053501929.49,5369,Public,Listed,UMIC.BR,2024,EUR,Medium,Yes
+277,Lectra,France,France,Western Europe,Technology,IT Services,Managed Services,206463820.93,315488209.47,472,Private,Unlisted,,2024,EUR,Medium,Yes
+278,Vicat SA,France,France,Western Europe,Construction/Industrials,Machinery,Agricultural Machinery,6928878869.13,9679036920.33,21401,Public,Listed,VICA.PA,2024,EUR,Large,Yes
+279,GEA Group AG,Germany,Germany,Central Europe,Construction/Industrials,Aerospace & Defense,Defense,3468463300.2,6917473200.66,16527,Public,Listed,GEAG.DE,2024,EUR,Large,Yes
+280,SFR (Altice France),France,France,Western Europe,Telecommunications,Integrated Telecom,Integrated Telecom,269261585.76,528484012.54,985,Private,Unlisted,,2024,EUR,Medium,Yes
+281,Bank of Ireland,Ireland,Ireland,Western Europe,Financial Services,Diversified Financials,Holding Company,33960751.63,507135343.74,54,Private,Unlisted,,2024,EUR,Small,No
+282,Getlink SE,France,France,Western Europe,Automotive/Transport,Rail,Rail Operator,6426614617.9,14922125611.46,18047,Public,Listed,GETL.PA,2024,EUR,Large,Yes
+283,Hostelworld Group,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Personal Products,Cosmetics,84199684495.12,109640356047.97,668784,Public,Listed,HOST.IR,2024,EUR,Large,Yes
+284,S Group (SOK),Finland,Finland,Northern Europe,Consumer Goods/Retail,E-Commerce,Online Retail,524039369.02,822374751.85,4551,Public,Listed,SGRO.HE,2024,EUR,Medium,Yes
+285,Aer Lingus,Ireland,Ireland,Western Europe,Automotive/Transport,Airlines,Cargo Airline,1173616127.77,2031179861.85,5750,Private,Unlisted,,2024,EUR,Medium,Yes
+286,Siltronic AG,Germany,Germany,Central Europe,Technology,Internet,E-Commerce Platform,14698436687.92,14633606618.09,32037,Public,Listed,SILT.DE,2024,EUR,Large,Yes
+287,IMC Trading,Netherlands,Netherlands,Western Europe,Financial Services,Capital Markets,Exchange / Clearing,31436741095.79,531124760234.18,58976,Public,Listed,IMCT.AS,2024,EUR,Large,Yes
+288,EQT AB,Sweden,Sweden,Northern Europe,Financial Services,Diversified Financials,Holding Company,48251971092.98,855931755937.31,96368,Public,Listed,EQTA.ST,2024,EUR,Large,Yes
+289,KTM AG,Austria,Austria,Central Europe,Automotive/Transport,Airlines,Cargo Airline,1132500254.09,2817318477.32,4150,Private,Unlisted,,2024,EUR,Medium,Yes
+290,Wizz Air Holdings,Hungary,Hungary,Central Europe,Automotive/Transport,Auto Components,Tires,1726517608.23,3204254595.32,9025,Private,Unlisted,,2024,EUR,Large,Yes
+291,D'Ieteren Group,Belgium,Belgium,Western Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,355599252.65,830412822.76,1274,Private,Unlisted,,2024,EUR,Medium,Yes
+292,Nexter Systems,France,France,Western Europe,Construction/Industrials,Machinery,Industrial Machinery,25821074644.73,42662105727.46,174414,Public,Unlisted,,2024,EUR,Large,Yes
+293,Plenitude (Eni),Italy,Italy,Southern Europe,Energy/Utilities,Renewable Energy,Wind,4436735430.68,19501885029.0,5354,Public,Listed,PLEN.MI,2024,EUR,Large,Yes
+294,Asbis Enterprises,Poland,Poland,Central Europe,Technology,Software,Consumer Software,48020261850.79,73713497487.87,63854,Public,Listed,ASBI.WA,2024,EUR,Large,Yes
+295,Heidelberger Druckmaschinen AG,Germany,Germany,Central Europe,Construction/Industrials,Construction,General Contracting,1794521432.66,1837426462.81,6442,Private,Unlisted,,2024,EUR,Large,Yes
+296,Interpump Group,Italy,Italy,Southern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,817112648.08,1125137046.85,4681,Private,Unlisted,,2024,EUR,Medium,Yes
+297,Menarini Group,Italy,Italy,Southern Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,20580908646.72,37221200933.63,83450,Public,Listed,MENA.MI,2024,EUR,Large,Yes
+298,Banco Comercial Português,Portugal,Portugal,Southern Europe,Financial Services,Capital Markets,Exchange / Clearing,335528249.78,4476172387.69,803,Public,Listed,BANC.LS,2024,EUR,Medium,Yes
+299,CD Projekt,Poland,Poland,Central Europe,Technology,Internet,E-Commerce Platform,35243734.59,63631710.99,95,Private,Unlisted,,2024,EUR,Small,No
+300,Allianz SE,Germany,Germany,Central Europe,Financial Services,Insurance,P&C Insurance,9740657421.24,105884332407.63,30251,Public,Listed,ALLI.DE,2024,EUR,Large,Yes
+301,mBank S.A.,Poland,Poland,Central Europe,Financial Services,Diversified Financials,Holding Company,36310483.98,613442593.68,70,Private,Unlisted,,2024,EUR,Small,No
+302,AMS-Osram AG,Austria,Austria,Central Europe,Technology,Internet,E-Commerce Platform,302940224.01,603446815.91,807,Private,Unlisted,,2024,EUR,Medium,Yes
+303,Philip Morris ČR,Czechia,Czechia,Central Europe,Consumer Goods/Retail,Food Retail,Supermarkets,1114320381.61,1222408162.21,4175,Private,Unlisted,,2024,EUR,Medium,Yes
+304,Eurofins Scientific,Luxembourg,Luxembourg,Western Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,6233968172.36,9584515440.11,14171,Public,Listed,EURO.LU,2024,EUR,Large,Yes
+305,A1 Bulgaria,Bulgaria,Bulgaria,Eastern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,7963547029.72,21445349798.35,18628,Public,Listed,A1BU.EU,2024,EUR,Large,Yes
+306,Elmos Semiconductor,Germany,Germany,Central Europe,Technology,Internet,E-Commerce Platform,1351085073.45,2278788872.89,3578,Private,Unlisted,,2024,EUR,Medium,Yes
+307,Haribo,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Beverages,564083382.97,605924927.13,4698,Private,Unlisted,,2024,EUR,Medium,Yes
+308,Kapsch TrafficCom,Austria,Austria,Central Europe,Technology,Internet,E-Commerce Platform,442485170.0,727733568.48,803,Private,Unlisted,,2024,EUR,Medium,Yes
+309,Talanx AG,Germany,Germany,Central Europe,Financial Services,Insurance,P&C Insurance,10042751674.19,167114592016.82,30488,Private,Unlisted,,2024,EUR,Large,Yes
+310,Louis Dreyfus Company,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,463256359.05,787579764.99,1985,Private,Unlisted,,2024,EUR,Medium,Yes
+311,ADP Aéroports de Paris,France,France,Western Europe,Automotive/Transport,Rail,Rail Operator,39434782997.21,55433490639.71,129228,Public,Listed,ADPA.PA,2024,EUR,Large,Yes
+312,Webasto Group,Germany,Germany,Central Europe,Automotive/Transport,Automotive OEM,Passenger Vehicles,3232662507.02,3563193341.14,9798,Public,Listed,WEBA.DE,2024,EUR,Large,Yes
+313,Tessenderlo Group,Belgium,Belgium,Western Europe,Manufacturing,Paper & Packaging,Paper Products,35234199996.0,41846581156.87,79503,Public,Listed,TESS.BR,2024,EUR,Large,Yes
+314,NIBE Industrier,Sweden,Sweden,Northern Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,24878037692.85,27373479215.11,125499,Public,Listed,NIBE.ST,2024,EUR,Large,Yes
+315,Wintershall Dea,Germany,Germany,Central Europe,Energy/Utilities,Renewable Energy,Wind,624160890.81,1600019755.64,680,Public,Listed,WINT.DE,2024,EUR,Medium,Yes
+316,Barceló Hotel Group,Spain,Spain,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,57924752322.96,48619212924.7,382858,Public,Listed,BARC.MC,2024,EUR,Large,Yes
+317,Helios Kliniken,Germany,Germany,Central Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,1696109973.58,1980170492.65,7293,Public,Listed,HELI.DE,2024,EUR,Large,Yes
+318,Lovisagruvan AB,Sweden,Sweden,Northern Europe,Manufacturing,Industrial Gases,Industrial Gases,24679069.45,48100830.7,75,Private,Unlisted,,2024,EUR,Small,No
+319,Merck KGaA,Germany,Germany,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,41156518690.05,48824694787.14,203269,Public,Listed,MERC.DE,2024,EUR,Large,Yes
+320,Wihlborgs Fastigheter,Sweden,Sweden,Northern Europe,Construction/Industrials,Professional Services,Facility Services,6375944589.65,9574276028.7,26529,Public,Unlisted,,2024,EUR,Large,Yes
+321,F-Secure,Finland,Finland,Northern Europe,Technology,Hardware,Electronic Components,17803901.08,30127570.73,40,Private,Unlisted,,2024,EUR,Small,No
+322,Aalberts N.V.,Netherlands,Netherlands,Western Europe,Construction/Industrials,Building Products,Building Materials,253642019.79,271637474.88,1348,Public,Listed,AALB.AS,2024,EUR,Medium,Yes
+323,Royal Cosun,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,593036229.87,524728787.66,3208,Private,Unlisted,,2024,EUR,Medium,Yes
+324,Euskaltel SA,Spain,Spain,Southern Europe,Telecommunications,Telecom Equipment,Network Equipment,64396739028.17,118515894752.49,189022,Private,Unlisted,,2024,EUR,Large,Yes
+325,Eurocash,Poland,Poland,Central Europe,Consumer Goods/Retail,Media & Entertainment,Media,156823541.09,172508980.23,911,Private,Unlisted,,2024,EUR,Medium,Yes
+326,Semapa,Portugal,Portugal,Southern Europe,Manufacturing,Electrical Equipment,Industrial Electrical,3720034698.04,6675320172.24,14252,Public,Listed,SEMA.LS,2024,EUR,Large,Yes
+327,KGHM Polska Miedź,Poland,Poland,Central Europe,Manufacturing,Paper & Packaging,Packaging,19780719.47,36186604.16,49,Private,Unlisted,,2024,EUR,Small,No
+328,Ipsos SA,France,France,Western Europe,Technology,Hardware,Electronic Components,44318744048.08,54355573384.38,76852,Public,Listed,IPSO.PA,2024,EUR,Large,Yes
+329,Danish Crown,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,1024718448.14,874613709.43,6376,Public,Listed,DANI.CO,2024,EUR,Medium,Yes
+330,Corporación Financiera Alba,Spain,Spain,Southern Europe,Financial Services,Diversified Financials,Holding Company,463588122.67,8913698569.07,744,Private,Unlisted,,2024,EUR,Medium,Yes
+331,GN Store Nord,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Medical Devices,Medical Devices,289385783.22,577864934.93,1014,Private,Unlisted,,2024,EUR,Medium,Yes
+332,Lidl,Germany,Germany,Central Europe,Consumer Goods/Retail,E-Commerce,Online Retail,28674383456.57,36298963553.17,163544,Public,Listed,LIDL.DE,2024,EUR,Large,Yes
+333,PGNiG,Poland,Poland,Central Europe,Energy/Utilities,Renewable Energy,Wind,14826501681.2,41148565190.71,17447,Private,Unlisted,,2024,EUR,Large,Yes
+334,Pinko,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,15682616511.57,19646666456.31,114327,Public,Listed,PINK.MI,2024,EUR,Large,Yes
+335,Raisio Group,Finland,Finland,Northern Europe,Consumer Goods/Retail,E-Commerce,Online Retail,157180039.18,194458224.71,1333,Public,Listed,RAIS.HE,2024,EUR,Medium,Yes
+336,Škoda Auto,Czechia,Czechia,Central Europe,Automotive/Transport,Rail,Rail Operator,34142822995.49,51597006972.01,151473,Public,Listed,ŠKOD.PR,2024,EUR,Large,Yes
+337,Strabag SE,Austria,Austria,Central Europe,Construction/Industrials,Machinery,Industrial Machinery,406671771.19,772039696.44,1565,Public,Listed,STRA.VI,2024,EUR,Medium,Yes
+338,VolkerWessels,Netherlands,Netherlands,Western Europe,Construction/Industrials,Real Estate,Residential Real Estate,2358088929.68,4211633998.18,16212,Public,Listed,VOLK.AS,2024,EUR,Large,Yes
+339,MTU Aero Engines AG,Germany,Germany,Central Europe,Construction/Industrials,Real Estate,Commercial Real Estate,41768427341.61,68203814552.83,243547,Public,Listed,MTUA.DE,2024,EUR,Large,Yes
+340,Sodexo SA,France,France,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,29746970174.48,33423166967.22,160571,Public,Listed,SODE.PA,2024,EUR,Large,Yes
+341,HelloFresh,Germany,Germany,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,9087529805.95,13277133756.56,64692,Public,Listed,HELL.DE,2024,EUR,Large,Yes
+342,BBVA Bancomer Europe,Spain,Spain,Southern Europe,Financial Services,Diversified Financials,Holding Company,72709628866.53,938628092567.54,138538,Public,Listed,BBVA.MC,2024,EUR,Large,Yes
+343,RWE AG,Germany,Germany,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,34281750.77,142021191.46,27,Private,Unlisted,,2024,EUR,Small,No
+344,O2 Czech Republic,Czechia,Czechia,Central Europe,Telecommunications,Telecom Equipment,Network Equipment,21378138328.44,36833990932.18,45937,Public,Listed,O2CZ.PR,2024,EUR,Large,Yes
+345,Thyssenkrupp AG,Germany,Germany,Central Europe,Manufacturing,Industrial Gases,Industrial Gases,72746273.78,142760933.32,240,Public,Listed,THYS.DE,2024,EUR,Small,No
+346,Saipem S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Renewable Energy,Wind,628115475.1,2662858271.88,921,Public,Listed,SAIP.MI,2024,EUR,Medium,Yes
+347,Metro AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Food Retail,Supermarkets,5991206842.79,9781579133.99,24144,Public,Listed,METR.DE,2024,EUR,Large,Yes
+348,MorphoSys AG,Germany,Germany,Central Europe,Healthcare/Pharma,Healthcare Services,Hospital Operator,342615119.22,737561536.04,1836,Public,Listed,MORP.DE,2024,EUR,Medium,Yes
+349,Prysmian S.p.A.,Italy,Italy,Southern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,4769474338.27,7204830343.74,31895,Public,Listed,PRYS.MI,2024,EUR,Large,Yes
+350,Inwido AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,457644915.32,933912549.81,1562,Private,Unlisted,,2024,EUR,Medium,Yes
+351,Nykredit,Denmark,Denmark,Northern Europe,Financial Services,Banking,Investment Banking,348171063.15,3022661435.48,1134,Public,Listed,NYKR.CO,2024,EUR,Medium,Yes
+352,FNAC Darty,France,France,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,6421592566.04,8399327467.32,20019,Public,Listed,FNAC.PA,2024,EUR,Large,Yes
+353,Rai Way S.p.A.,Italy,Italy,Southern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,92753918.74,264675314.2,330,Private,Unlisted,,2024,EUR,Small,No
+354,Ence Energía y Celulosa,Spain,Spain,Southern Europe,Manufacturing,Industrial Gases,Industrial Gases,30316738826.82,39227211048.77,128127,Public,Listed,ENCE.MC,2024,EUR,Large,Yes
+355,Logista Pharma,Spain,Spain,Southern Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,17026746.71,21508425.5,39,Private,Unlisted,,2024,EUR,Small,No
+356,Greencore Group,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,1244016533.72,1180035647.84,7960,Public,Listed,GREE.IR,2024,EUR,Medium,Yes
+357,Campari Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,31977458965.01,24372122783.76,182391,Public,Unlisted,,2024,EUR,Large,Yes
+358,Euronav NV,Belgium,Belgium,Western Europe,Automotive/Transport,Logistics,Road Freight,10433555184.74,16922461859.25,52899,Public,Listed,EURO.BR,2024,EUR,Large,Yes
+359,Eneco,Netherlands,Netherlands,Western Europe,Energy/Utilities,Gas Utilities,Gas Distribution,739439663.18,1362143178.78,1367,Private,Unlisted,,2024,EUR,Medium,Yes
+360,Polski LNG,Poland,Poland,Central Europe,Energy/Utilities,Oil & Gas E&P,Upstream,3474952940.1,13743308062.51,2350,Public,Listed,POLS.WA,2024,EUR,Large,Yes
+361,Bonava AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Machinery,Agricultural Machinery,344664038.75,573778549.52,1302,Private,Unlisted,,2024,EUR,Medium,Yes
+362,EDP (Energias de Portugal),Portugal,Portugal,Southern Europe,Energy/Utilities,Electric Utilities,Power Generation,1200505812.73,3877690375.35,1299,Public,Listed,EDPE.LS,2024,EUR,Medium,Yes
+363,Asklepios Kliniken,Germany,Germany,Central Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,5206648226.51,5211135822.28,18586,Public,Listed,ASKL.DE,2024,EUR,Large,Yes
+364,Bpost,Belgium,Belgium,Western Europe,Automotive/Transport,Airlines,Passenger Airline,121408938.14,191088593.13,627,Public,Listed,BPOS.BR,2024,EUR,Small,No
+365,Zavarovalnica Triglav,Slovenia,Slovenia,Southern Europe,Financial Services,Banking,Investment Banking,933879195.93,14618741579.77,1786,Private,Unlisted,,2024,EUR,Medium,Yes
+366,Gucci,Italy,Italy,Southern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,5627141296.57,6353151921.13,36687,Public,Listed,GUCC.MI,2024,EUR,Large,Yes
+367,ČEZ Group,Czechia,Czechia,Central Europe,Energy/Utilities,Renewable Energy,Wind,681470887.23,2326864997.28,1103,Private,Unlisted,,2024,EUR,Medium,Yes
+368,Lidl Suomi,Finland,Finland,Northern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,1449482829.34,2446313777.11,12951,Public,Listed,LIDL.HE,2024,EUR,Medium,Yes
+369,Schoeller Allibert,Netherlands,Netherlands,Western Europe,Manufacturing,Metals & Mining,Steel,225177364.11,482311506.34,889,Private,Unlisted,,2024,EUR,Medium,Yes
+370,Techland,Poland,Poland,Central Europe,Technology,IT Services,IT Consulting,7274568602.94,13431546225.0,15739,Public,Listed,TECH.WA,2024,EUR,Large,Yes
+371,Deceuninck NV,Belgium,Belgium,Western Europe,Manufacturing,Industrial Gases,Industrial Gases,553973898.58,1123237683.36,1815,Public,Listed,DECE.BR,2024,EUR,Medium,Yes
+372,Publicis Groupe,France,France,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,38435919722.82,52240169739.36,225453,Public,Listed,PUBL.PA,2024,EUR,Large,Yes
+373,Kingspan Group,Ireland,Ireland,Western Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,170380575.96,243428949.86,1112,Private,Unlisted,,2024,EUR,Medium,Yes
+374,Bonita GmbH,Germany,Germany,Central Europe,Consumer Goods/Retail,E-Commerce,Online Retail,1836786382.56,1635696920.25,6699,Public,Listed,BONI.DE,2024,EUR,Large,Yes
+375,ACS Group,Spain,Spain,Southern Europe,Construction/Industrials,Machinery,Industrial Machinery,38796952201.28,71373862269.44,246512,Private,Unlisted,,2024,EUR,Large,Yes
+376,Banca Transilvania,Romania,Romania,Eastern Europe,Financial Services,Diversified Financials,Holding Company,3236806394.21,36807212467.63,11084,Public,Listed,BANC.BVB,2024,EUR,Large,Yes
+377,Reply S.p.A.,Italy,Italy,Southern Europe,Technology,Software,Enterprise Software,290764215.47,438159230.67,609,Private,Unlisted,,2024,EUR,Medium,Yes
+378,Hella GmbH & Co. KGaA,Germany,Germany,Central Europe,Automotive/Transport,Rail,Rail Operator,1206985079.03,1970005034.79,6543,Private,Unlisted,,2024,EUR,Medium,Yes
+379,Waberer's International,Hungary,Hungary,Central Europe,Automotive/Transport,Airport Operator,Airport Operator,14282981003.72,23999599876.08,68419,Public,Listed,WABE.BU,2024,EUR,Large,Yes
+380,Ferragamo Parfums,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,8692590428.08,14556564567.05,73707,Public,Listed,FERR.MI,2024,EUR,Large,Yes
+381,Basler AG,Germany,Germany,Central Europe,Technology,Hardware,Electronic Components,37128033288.85,64307789593.58,73231,Public,Listed,BASL.DE,2024,EUR,Large,Yes
+382,Motor Oil Hellas,Greece,Greece,Southern Europe,Energy/Utilities,Oil & Gas E&P,Upstream,2051591039.62,7161020512.87,3215,Public,Unlisted,,2024,EUR,Large,Yes
+383,KWS Saat SE,Germany,Germany,Central Europe,Consumer Goods/Retail,E-Commerce,Online Retail,91697712439.51,135561075453.25,748050,Private,Unlisted,,2024,EUR,Large,Yes
+384,Cementir Holding,Italy,Italy,Southern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,465669386.32,940682301.96,1476,Public,Listed,CEME.MI,2024,EUR,Medium,Yes
+385,Damen Shipyards Group,Netherlands,Netherlands,Western Europe,Construction/Industrials,Machinery,Industrial Machinery,78036443.77,126422087.88,540,Public,Listed,DAME.AS,2024,EUR,Small,No
+386,Akka Technologies,France,France,Western Europe,Technology,Internet,E-Commerce Platform,397752699.99,474181516.95,708,Private,Unlisted,,2024,EUR,Medium,Yes
+387,LHV Group,Estonia,Estonia,Northern Europe,Financial Services,Banking,Investment Banking,276829797.28,4407679501.81,1030,Private,Unlisted,,2024,EUR,Medium,Yes
+388,Encavis AG,Germany,Germany,Central Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,77400939471.55,145350248458.38,126334,Public,Listed,ENCA.DE,2024,EUR,Large,Yes
+389,DHL Group,Germany,Germany,Central Europe,Automotive/Transport,Shipping,Container Shipping,12183827889.32,24155306312.28,52191,Public,Listed,DHLG.DE,2024,EUR,Large,Yes
+390,Greenyard NV,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,7985710010.89,14351229763.64,61004,Public,Listed,GREE.BR,2024,EUR,Large,Yes
+391,Sonae SGPS,Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,5022493763.19,7597582787.17,32298,Public,Listed,SONA.LS,2024,EUR,Large,Yes
+392,Selvita,Poland,Poland,Central Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,23301011.58,50190878.26,124,Private,Unlisted,,2024,EUR,Small,No
+393,Delivery Hero SE,Germany,Germany,Central Europe,Consumer Goods/Retail,Household Products,Household Goods,1779483611.3,2569915905.44,7422,Public,Listed,DELI.DE,2024,EUR,Large,Yes
+394,Ferrovie dello Stato,Italy,Italy,Southern Europe,Automotive/Transport,Automotive OEM,Passenger Vehicles,17800029644.51,28715736168.64,49323,Public,Listed,FERR.MI,2024,EUR,Large,Yes
+395,Deutsche Bank AG,Germany,Germany,Central Europe,Financial Services,Insurance,Life Insurance,28232694241.73,286395975143.53,75760,Private,Unlisted,,2024,EUR,Large,Yes
+396,Maspex,Poland,Poland,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,28274000468.48,29500032996.86,172326,Public,Listed,MASP.WA,2024,EUR,Large,Yes
+397,Atlantic Grupa,Croatia,Croatia,Southern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,8203123756.62,14713002891.41,33306,Public,Listed,ATLA.EU,2024,EUR,Large,Yes
+398,Europcar Mobility Group,France,France,Western Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,756225086.9,1768802501.76,2676,Private,Unlisted,,2024,EUR,Medium,Yes
+399,Grenergy Renovables,Spain,Spain,Southern Europe,Energy/Utilities,Renewable Energy,Solar,982324844.34,2652670215.0,1567,Private,Unlisted,,2024,EUR,Medium,Yes
+400,Fuchs Petrolub SE,Germany,Germany,Central Europe,Manufacturing,Paper & Packaging,Packaging,4360021400.08,5632157131.14,10266,Public,Unlisted,,2024,EUR,Large,Yes
+401,Eutelsat Communications,France,France,Western Europe,Telecommunications,Wireless Telecom,Mobile Operator,1579245428.58,2670393378.34,4414,Public,Listed,EUTE.PA,2024,EUR,Large,Yes
+402,Klarna Bank,Sweden,Sweden,Northern Europe,Financial Services,Insurance,P&C Insurance,8965932072.98,87632389480.16,19012,Public,Listed,KLAR.ST,2024,EUR,Large,Yes
+403,Topdanmark A/S,Denmark,Denmark,Northern Europe,Financial Services,Insurance,Life Insurance,440890649.39,4862080294.17,1395,Private,Unlisted,,2024,EUR,Medium,Yes
+404,Aedifica NV,Belgium,Belgium,Western Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,9820593309.05,20303080155.71,46583,Public,Listed,AEDI.BR,2024,EUR,Large,Yes
+405,ABB (Sweden ops),Sweden,Sweden,Northern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,164899155.89,294965932.31,575,Public,Listed,ABBS.ST,2024,EUR,Medium,Yes
+406,Spotify Technology,Sweden,Sweden,Northern Europe,Technology,Internet,E-Commerce Platform,12068398742.45,17146393212.64,16427,Public,Unlisted,,2024,EUR,Large,Yes
+407,Tinexta SpA,Italy,Italy,Southern Europe,Technology,Software,Enterprise Software,473961742.96,550003530.13,724,Private,Unlisted,,2024,EUR,Medium,Yes
+408,Lindab International,Sweden,Sweden,Northern Europe,Construction/Industrials,Aerospace & Defense,Defense,4754836851.34,5973667729.88,20260,Private,Unlisted,,2024,EUR,Large,Yes
+409,Randstad N.V.,Netherlands,Netherlands,Western Europe,Technology,Internet,Digital Media,1057525554.42,1549609914.75,2211,Public,Listed,RAND.AS,2024,EUR,Medium,Yes
+410,Livechat Software,Poland,Poland,Central Europe,Technology,Semiconductors,Semiconductor Devices,113137022.16,124916782.5,242,Private,Unlisted,,2024,EUR,Small,No
+411,Pfeiffer Vacuum Technology,Germany,Germany,Central Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,31006960271.42,49666945167.1,177244,Private,Unlisted,,2024,EUR,Large,Yes
+412,Siemens Energy AG,Germany,Germany,Central Europe,Energy/Utilities,Electric Utilities,Power Generation,330006393.84,1088060885.09,292,Public,Listed,SIEM.DE,2024,EUR,Medium,Yes
+413,Sofiyska Voda,Bulgaria,Bulgaria,Eastern Europe,Energy/Utilities,Gas Utilities,Gas Distribution,54164719.07,136896147.84,65,Private,Unlisted,,2024,EUR,Small,No
+414,Unipetrol,Czechia,Czechia,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,37023228.85,152257276.32,68,Private,Unlisted,,2024,EUR,Small,No
+415,Lufthansa AG,Germany,Germany,Central Europe,Automotive/Transport,Automotive OEM,Passenger Vehicles,513820061.83,594215281.03,1500,Public,Listed,LUFT.DE,2024,EUR,Medium,Yes
+416,R22 S.A.,Poland,Poland,Central Europe,Technology,Internet,Digital Media,244184918.72,367483624.36,452,Public,Listed,R22S.WA,2024,EUR,Medium,Yes
+417,Trelleborg AB,Sweden,Sweden,Northern Europe,Manufacturing,Metals & Mining,Steel,172418375.57,365303715.78,417,Public,Listed,TREL.ST,2024,EUR,Medium,Yes
+418,Danieli & C.,Italy,Italy,Southern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,200436957.08,407848557.15,1396,Private,Unlisted,,2024,EUR,Medium,Yes
+419,Škoda Transportation,Czechia,Czechia,Central Europe,Automotive/Transport,Airlines,Passenger Airline,75214559.91,99040074.07,240,Private,Unlisted,,2024,EUR,Small,No
+420,Latvijas Gāze,Latvia,Latvia,Northern Europe,Energy/Utilities,Water Utilities,Water & Waste,1127885089.01,3364597434.21,1437,Private,Unlisted,,2024,EUR,Medium,Yes
+421,Telia Eesti,Estonia,Estonia,Northern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,1441939467.46,3993690860.75,3732,Public,Listed,TELI.EU,2024,EUR,Medium,Yes
+422,Scania AB,Sweden,Sweden,Northern Europe,Automotive/Transport,Rail,Rail Operator,1595422674.62,3126775781.63,7535,Public,Listed,SCAN.ST,2024,EUR,Large,Yes
+423,Système U,France,France,Western Europe,Consumer Goods/Retail,Personal Products,Cosmetics,2631326637.47,4171388903.6,17893,Public,Unlisted,,2024,EUR,Large,Yes
+424,Bonduelle SA,France,France,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,8674929317.49,8965546480.91,43665,Public,Listed,BOND.PA,2024,EUR,Large,Yes
+425,United Internet AG,Germany,Germany,Central Europe,Telecommunications,Wireless Telecom,Mobile Operator,28107563.41,89233931.87,121,Private,Unlisted,,2024,EUR,Small,No
+426,Gaztransport & Technigaz,France,France,Western Europe,Energy/Utilities,Gas Utilities,Gas Distribution,326898417.85,1138130364.43,333,Private,Unlisted,,2024,EUR,Medium,Yes
+427,Air Malta,Malta,Malta,Southern Europe,Automotive/Transport,Airlines,Passenger Airline,21329107.63,40514540.42,91,Private,Unlisted,,2024,EUR,Small,No
+428,SGL Group,Germany,Germany,Central Europe,Manufacturing,Electrical Equipment,Industrial Electrical,15881619645.57,25890341348.73,53796,Public,Listed,SGLG.DE,2024,EUR,Large,Yes
+429,Robert Bosch GmbH,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Agricultural Machinery,4421659045.79,8939540110.14,28518,Private,Unlisted,,2024,EUR,Large,Yes
+430,Ter Beke,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,685294536.72,489713111.88,3004,Private,Unlisted,,2024,EUR,Medium,Yes
+431,Nokia Corporation,Finland,Finland,Northern Europe,Telecommunications,Satellite,Satellite Services,66058821289.25,129267817369.63,132639,Public,Listed,NOKI.HE,2024,EUR,Large,Yes
+432,Hermès International,France,France,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,124586101.86,123606954.73,1095,Private,Unlisted,,2024,EUR,Small,No
+433,Ericsson,Sweden,Sweden,Northern Europe,Telecommunications,Wireless Telecom,Mobile Operator,390233635.85,966180554.85,1549,Public,Listed,ERIC.ST,2024,EUR,Medium,Yes
+434,Vandemoortele,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Food Retail,Supermarkets,3231460183.27,4715189519.46,25020,Public,Unlisted,,2024,EUR,Large,Yes
+435,Colruyt Group,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Personal Products,Cosmetics,414294638.06,480517402.07,2107,Private,Unlisted,,2024,EUR,Medium,Yes
+436,Instalco AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Machinery,Industrial Machinery,78907552499.54,141520607870.12,375935,Public,Listed,INST.ST,2024,EUR,Large,Yes
+437,Aixtron SE,Germany,Germany,Central Europe,Technology,Internet,Digital Media,6534696499.4,7805478534.55,18758,Public,Listed,AIXT.DE,2024,EUR,Large,Yes
+438,Lenzing AG,Austria,Austria,Central Europe,Manufacturing,Metals & Mining,Steel,64719924.72,89279257.69,242,Private,Unlisted,,2024,EUR,Small,No
+439,Ageas SA/NV,Belgium,Belgium,Western Europe,Financial Services,Capital Markets,Exchange / Clearing,44678549.68,748157416.76,109,Private,Unlisted,,2024,EUR,Small,No
+440,Volvo AB,Sweden,Sweden,Northern Europe,Automotive/Transport,Shipping,Container Shipping,277608511.49,443924778.28,717,Private,Unlisted,,2024,EUR,Medium,Yes
+441,Ferrovial S.A.,Spain,Spain,Southern Europe,Construction/Industrials,Professional Services,Facility Services,33548843308.11,51845833974.7,225560,Private,Unlisted,,2024,EUR,Large,Yes
+442,Fluvius,Belgium,Belgium,Western Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,50723112.8,152750810.81,32,Private,Unlisted,,2024,EUR,Small,No
+443,Continental AG,Germany,Germany,Central Europe,Automotive/Transport,Airport Operator,Airport Operator,747147609.47,1837165874.29,3572,Public,Listed,CONT.DE,2024,EUR,Medium,Yes
+444,Siemens Gamesa Renewable Energy,Spain,Spain,Southern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,7246820013.54,24652346089.47,3651,Private,Unlisted,,2024,EUR,Large,Yes
+445,LEG Immobilien SE,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Agricultural Machinery,13128296462.9,26363317495.43,53444,Public,Listed,LEGI.DE,2024,EUR,Large,Yes
+446,Smurfit Kappa Ireland,Ireland,Ireland,Western Europe,Manufacturing,Electrical Equipment,Industrial Electrical,26316044678.19,35380784488.28,66083,Private,Unlisted,,2024,EUR,Large,Yes
+447,L'Oréal S.A.,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,22668624.19,32652778.28,68,Private,Unlisted,,2024,EUR,Small,No
+448,Indutrade AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Real Estate,Residential Real Estate,369351157.84,785578345.16,1862,Private,Unlisted,,2024,EUR,Medium,Yes
+449,Van Lanschot Kempen,Netherlands,Netherlands,Western Europe,Financial Services,Banking,Retail Banking,75804389481.27,988293306713.93,224585,Public,Listed,VANL.AS,2024,EUR,Large,Yes
+450,About You Holding SE,Germany,Germany,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,172896819.3,196633157.91,860,Private,Unlisted,,2024,EUR,Medium,Yes
+451,Deutsche Börse AG,Germany,Germany,Central Europe,Financial Services,Diversified Financials,Holding Company,1128037911.35,20190059128.53,3364,Private,Unlisted,,2024,EUR,Medium,Yes
+452,Tryg A/S,Denmark,Denmark,Northern Europe,Financial Services,Capital Markets,Exchange / Clearing,160860293.74,1628861790.32,331,Private,Unlisted,,2024,EUR,Medium,Yes
+453,Alten France,France,France,Western Europe,Technology,Semiconductors,Semiconductor Devices,182051200.6,159948514.16,441,Public,Listed,ALTE.PA,2024,EUR,Medium,Yes
+454,Axfood Snabbgross,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,174979998.75,278009555.81,845,Public,Listed,AXFO.ST,2024,EUR,Medium,Yes
+455,Castellum AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,1735364550.44,3545653595.27,9566,Public,Listed,CAST.ST,2024,EUR,Large,Yes
+456,Almirall S.A.,Spain,Spain,Southern Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,44839601701.3,76662354044.64,176873,Public,Listed,ALMI.MC,2024,EUR,Large,Yes
+457,Vopak N.V.,Netherlands,Netherlands,Western Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,16525417897.04,56590739839.33,15588,Public,Listed,VOPA.AS,2024,EUR,Large,Yes
+458,Evolution AB,Sweden,Sweden,Northern Europe,Technology,Internet,E-Commerce Platform,84215511743.08,128525779729.1,150920,Public,Listed,EVOL.ST,2024,EUR,Large,Yes
+459,MHP Management,Germany,Germany,Central Europe,Technology,IT Services,Managed Services,27602411.99,31722862.85,75,Private,Unlisted,,2024,EUR,Small,No
+460,Euler Hermes,France,France,Western Europe,Financial Services,Insurance,P&C Insurance,22744791511.88,286917605038.42,54085,Private,Unlisted,,2024,EUR,Large,Yes
+461,Telia Company,Sweden,Sweden,Northern Europe,Telecommunications,Wireless Telecom,Mobile Operator,2428423539.95,4037206345.54,5958,Public,Listed,TELI.ST,2024,EUR,Large,Yes
+462,INA d.d.,Croatia,Croatia,Southern Europe,Energy/Utilities,Renewable Energy,Wind,90225420.7,348335600.15,98,Private,Unlisted,,2024,EUR,Small,No
+463,Alstom SA,France,France,Western Europe,Automotive/Transport,Shipping,Container Shipping,58176130.85,115695376.3,294,Public,Listed,ALST.PA,2024,EUR,Small,No
+464,Lesaffre,France,France,Western Europe,Consumer Goods/Retail,Food Retail,Supermarkets,1330549376.72,1348023962.16,7252,Public,Listed,LESA.PA,2024,EUR,Medium,Yes
+465,Puma SE,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,2239698074.0,3239163299.6,15443,Private,Unlisted,,2024,EUR,Large,Yes
+466,Fortum Sweden,Sweden,Sweden,Northern Europe,Energy/Utilities,Renewable Energy,Solar,1220499249.9,4828815026.68,1583,Public,Listed,FORT.ST,2024,EUR,Medium,Yes
+467,Vonovia SE,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Agricultural Machinery,22225718063.47,35668636055.69,84104,Public,Listed,VONO.DE,2024,EUR,Large,Yes
+468,Navigator Company,Portugal,Portugal,Southern Europe,Manufacturing,Chemicals,Commodity Chemicals,11843813196.48,19551568937.61,52549,Public,Listed,NAVI.LS,2024,EUR,Large,Yes
+469,ERG S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,3534861860.88,15557217671.32,4117,Public,Listed,ERGS.MI,2024,EUR,Large,Yes
+470,ArcelorMittal,France,France,Western Europe,Manufacturing,Electrical Equipment,Industrial Electrical,118089058.74,187623342.33,435,Public,Listed,ARCE.PA,2024,EUR,Small,No
+471,Gasunie,Netherlands,Netherlands,Western Europe,Energy/Utilities,Renewable Energy,Solar,13514349524.6,29736382690.07,11330,Public,Listed,GASU.AS,2024,EUR,Large,Yes
+472,Esker SA,France,France,Western Europe,Technology,Semiconductors,Semiconductor Devices,19956596783.34,31601100106.66,55110,Public,Listed,ESKE.PA,2024,EUR,Large,Yes
+473,Piraeus Bank,Greece,Greece,Southern Europe,Financial Services,Insurance,Reinsurance,2939887237.29,27159319129.07,8133,Public,Listed,PIRA.AT,2024,EUR,Large,Yes
+474,AIB Group,Ireland,Ireland,Western Europe,Financial Services,Diversified Financials,Holding Company,46393539.29,835610412.77,108,Private,Unlisted,,2024,EUR,Small,No
+475,Bumech S.A.,Poland,Poland,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,62055256653.68,190528920891.08,39763,Public,Listed,BUME.WA,2024,EUR,Large,Yes
+476,Siemens Healthineers AG,Germany,Germany,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,179130439.53,233308027.14,608,Private,Unlisted,,2024,EUR,Medium,Yes
+477,Socfin Group,Luxembourg,Luxembourg,Western Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,1249930464.51,976574806.1,10735,Public,Listed,SOCF.LU,2024,EUR,Medium,Yes
+478,Porsche AG,Germany,Germany,Central Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,1001198021.74,2290004633.49,2584,Private,Unlisted,,2024,EUR,Medium,Yes
+479,Rosenbauer International,Austria,Austria,Central Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,1989894749.09,2914712194.34,9520,Public,Listed,ROSE.VI,2024,EUR,Large,Yes
+480,Hornbach Baumarkt,Germany,Germany,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,8246545031.29,6763520270.5,60792,Public,Listed,HORN.DE,2024,EUR,Large,Yes
+481,Bic SA,France,France,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,93317229899.81,153024276473.09,290866,Public,Listed,BICS.PA,2024,EUR,Large,Yes
+482,Bottega Veneta,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,26335222427.0,45779126309.34,107272,Public,Listed,BOTT.MI,2024,EUR,Large,Yes
+483,Iberdrola S.A.,Spain,Spain,Southern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,3303054412.45,14275869037.75,2913,Private,Unlisted,,2024,EUR,Large,Yes
+484,IONOS Group,Germany,Germany,Central Europe,Technology,Semiconductors,Semiconductor Devices,9597324195.56,16322635876.88,15774,Public,Unlisted,,2024,EUR,Large,Yes
+485,GEK Terna,Greece,Greece,Southern Europe,Construction/Industrials,Aerospace & Defense,Defense,24740976129.36,24877707245.33,82781,Public,Listed,GEKT.AT,2024,EUR,Large,Yes
+486,Fresenius SE,Germany,Germany,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,719124095.2,1468778328.6,2601,Private,Unlisted,,2024,EUR,Medium,Yes
+487,Trevi Finanziaria,Italy,Italy,Southern Europe,Construction/Industrials,Aerospace & Defense,Defense,3396292446.18,5829432010.93,17030,Public,Listed,TREV.MI,2024,EUR,Large,Yes
+488,Philips,Netherlands,Netherlands,Western Europe,Healthcare/Pharma,Medical Devices,Medical Devices,2391136249.07,5618205488.08,7425,Public,Listed,PHIL.AS,2024,EUR,Large,Yes
+489,Signify N.V.,Netherlands,Netherlands,Western Europe,Construction/Industrials,Building Products,Building Materials,551341716.33,794147060.55,2665,Private,Unlisted,,2024,EUR,Medium,Yes
+490,Coop Danmark,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,8180631880.22,11083039495.72,54884,Public,Listed,COOP.CO,2024,EUR,Large,Yes
+491,Iliad SA,France,France,Western Europe,Telecommunications,Integrated Telecom,Integrated Telecom,5693223430.11,14472020052.76,22670,Public,Listed,ILIA.PA,2024,EUR,Large,Yes
+492,Legrand SA,France,France,Western Europe,Construction/Industrials,Real Estate,Commercial Real Estate,15718905.44,24223616.73,91,Private,Unlisted,,2024,EUR,Small,No
+493,Fincantieri Marine Systems,Italy,Italy,Southern Europe,Construction/Industrials,Construction,General Contracting,12519726397.17,16224342523.97,50713,Public,Listed,FINC.MI,2024,EUR,Large,Yes
+494,Mayr-Melnhof Karton,Austria,Austria,Central Europe,Manufacturing,Chemicals,Commodity Chemicals,1241371639.93,2665940372.11,4418,Private,Unlisted,,2024,EUR,Medium,Yes
+495,Lotus Bakeries,Belgium,Belgium,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,29664973.67,37217549.16,103,Private,Unlisted,,2024,EUR,Small,No
+496,Esselunga,Italy,Italy,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,69277810428.52,80603059023.74,285038,Private,Unlisted,,2024,EUR,Large,Yes
+497,Teixeira Duarte,Portugal,Portugal,Southern Europe,Construction/Industrials,Professional Services,Facility Services,288155001.31,312487246.94,1982,Private,Unlisted,,2024,EUR,Medium,Yes
+498,Worldline SA,France,France,Western Europe,Technology,Software,Enterprise Software,15194818064.95,14057382713.41,37174,Private,Unlisted,,2024,EUR,Large,Yes
+499,SMA Solar Technology AG,Germany,Germany,Central Europe,Energy/Utilities,Oil & Gas E&P,Upstream,35973858700.02,101864985259.08,55409,Public,Unlisted,,2024,EUR,Large,Yes
+500,Azkoyen Group,Spain,Spain,Southern Europe,Construction/Industrials,Professional Services,Facility Services,987185629.83,1471550916.83,4551,Private,Unlisted,,2024,EUR,Medium,Yes
+501,Grifols S.A.,Spain,Spain,Southern Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,282021377.65,694885375.7,849,Public,Listed,GRIF.MC,2024,EUR,Medium,Yes
+502,Covestro AG,Germany,Germany,Central Europe,Manufacturing,Paper & Packaging,Packaging,189155708.5,349766342.24,577,Private,Unlisted,,2024,EUR,Medium,Yes
+503,Efecte Oyj,Finland,Finland,Northern Europe,Technology,Software,Enterprise Software,657127135.76,801891801.22,1147,Private,Unlisted,,2024,EUR,Medium,Yes
+504,Mycronic AB,Sweden,Sweden,Northern Europe,Technology,Semiconductors,Semiconductor Devices,708228303.12,862355582.89,1744,Private,Unlisted,,2024,EUR,Medium,Yes
+505,Bongrain (Savencia),France,France,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,51266355.26,46680136.75,306,Public,Listed,BONG.PA,2024,EUR,Small,No
+506,BRD-Groupe Société Générale,Romania,Romania,Eastern Europe,Financial Services,Diversified Financials,Holding Company,667141365.57,12052296531.63,1272,Private,Unlisted,,2024,EUR,Medium,Yes
+507,Tous Jewelry,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,166087769.6,291730815.19,661,Public,Listed,TOUS.MC,2024,EUR,Medium,Yes
+508,Solaria Energía,Spain,Spain,Southern Europe,Energy/Utilities,Integrated Oil & Gas,Integrated Oil & Gas,7267163682.83,18916023132.83,12513,Public,Listed,SOLA.MC,2024,EUR,Large,Yes
+509,Bawag Group,Austria,Austria,Central Europe,Financial Services,Insurance,P&C Insurance,45105237358.33,522860656496.73,68362,Public,Listed,BAWA.VI,2024,EUR,Large,Yes
+510,Titan Cement,Greece,Greece,Southern Europe,Construction/Industrials,Construction,Civil Engineering,128796962.27,170405292.55,758,Private,Unlisted,,2024,EUR,Small,No
+511,Jumbo Supermarkten,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,36627586850.15,56155078283.33,214986,Public,Listed,JUMB.AS,2024,EUR,Large,Yes
+512,Securitas AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Construction,Civil Engineering,351521007.56,719048923.24,1946,Public,Listed,SECU.ST,2024,EUR,Medium,Yes
+513,Autogrill Italia,Italy,Italy,Southern Europe,Consumer Goods/Retail,Household Products,Household Goods,14952736727.92,15022738125.17,129511,Public,Listed,AUTO.MI,2024,EUR,Large,Yes
+514,Capgemini SE,France,France,Western Europe,Technology,Internet,E-Commerce Platform,45598062641.32,47492172759.22,113200,Public,Listed,CAPG.PA,2024,EUR,Large,Yes
+515,Moët Hennessy,France,France,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,4905195409.18,7726933238.36,38961,Private,Unlisted,,2024,EUR,Large,Yes
+516,Cementos Molins,Spain,Spain,Southern Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,76262264021.94,88907191300.64,358947,Public,Listed,CEME.MC,2024,EUR,Large,Yes
+517,Beiersdorf AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Media & Entertainment,Media,13818111715.89,19287851740.2,111668,Public,Listed,BEIE.DE,2024,EUR,Large,Yes
+518,Malta International Airport,Malta,Malta,Southern Europe,Automotive/Transport,Logistics,Road Freight,17357426976.48,33641749429.2,65838,Public,Listed,MALT.EU,2024,EUR,Large,Yes
+519,EVN AG,Austria,Austria,Central Europe,Energy/Utilities,Renewable Energy,Wind,22345782.43,88633254.97,20,Private,Unlisted,,2024,EUR,Small,No
+520,BTS Group,Sweden,Sweden,Northern Europe,Technology,IT Services,IT Consulting,3327996449.17,5569133307.31,8445,Private,Unlisted,,2024,EUR,Large,Yes
+521,Dassault Systèmes,France,France,Western Europe,Technology,Software,Enterprise Software,1286816484.95,2000793384.48,3792,Private,Unlisted,,2024,EUR,Medium,Yes
+522,Mediobanca,Italy,Italy,Southern Europe,Financial Services,Banking,Retail Banking,3368312335.48,63230761530.98,9735,Public,Listed,MEDI.MI,2024,EUR,Large,Yes
+523,HEMA,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,610624569.91,827249406.02,2964,Public,Listed,HEMA.AS,2024,EUR,Medium,Yes
+524,Ørsted A/S,Denmark,Denmark,Northern Europe,Energy/Utilities,Renewable Energy,Wind,431330495.09,1608703892.24,423,Public,Listed,ØRST.CO,2024,EUR,Medium,Yes
+525,Edeka Group,Germany,Germany,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,299034220.34,328136904.93,2149,Public,Listed,EDEK.DE,2024,EUR,Medium,Yes
+526,Vivendi SE,France,France,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,248983897.28,342593842.44,1962,Public,Listed,VIVE.PA,2024,EUR,Medium,Yes
+527,EDP Renováveis,Portugal,Portugal,Southern Europe,Energy/Utilities,Integrated Oil & Gas,Integrated Oil & Gas,223349915.1,937719391.09,287,Private,Unlisted,,2024,EUR,Medium,Yes
+528,Wendel SE,France,France,Western Europe,Financial Services,Insurance,P&C Insurance,27545438.13,230915759.35,51,Private,Unlisted,,2024,EUR,Small,No
+529,SCM Group,Italy,Italy,Southern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,2597077803.84,3067167836.55,15851,Public,Listed,SCMG.MI,2024,EUR,Large,Yes
+530,Astaldi SpA,Italy,Italy,Southern Europe,Construction/Industrials,Building Products,Building Materials,211877725.37,340047291.09,1212,Public,Listed,ASTA.MI,2024,EUR,Medium,Yes
+531,Hapag-Lloyd AG,Germany,Germany,Central Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,278611712.66,498887016.84,1175,Private,Unlisted,,2024,EUR,Medium,Yes
+532,Continente (Sonae MC),Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,79250639030.64,66507063353.62,695915,Public,Listed,CONT.LS,2024,EUR,Large,Yes
+533,Grupo Planeta,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,42268168895.62,64457931947.38,157472,Public,Listed,GRUP.MC,2024,EUR,Large,Yes
+534,DCC plc,Ireland,Ireland,Western Europe,Energy/Utilities,Renewable Energy,Wind,48567058.13,142147493.9,53,Private,Unlisted,,2024,EUR,Small,No
+535,MAN SE,Germany,Germany,Central Europe,Automotive/Transport,Airlines,Cargo Airline,233126292.8,322390937.78,924,Public,Listed,MANS.DE,2024,EUR,Medium,Yes
+536,Wacker Chemie AG,Germany,Germany,Central Europe,Manufacturing,Chemicals,Commodity Chemicals,92627913391.89,195565584167.86,275910,Public,Listed,WACK.DE,2024,EUR,Large,Yes
+537,A1 Telekom Austria,Austria,Austria,Central Europe,Telecommunications,Integrated Telecom,Integrated Telecom,90530121567.75,254601149373.15,214657,Private,Unlisted,,2024,EUR,Large,Yes
+538,Fourlis Holdings,Greece,Greece,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,578703735.64,738156904.34,3001,Private,Unlisted,,2024,EUR,Medium,Yes
+539,Metsä Group,Finland,Finland,Northern Europe,Manufacturing,Electrical Equipment,Industrial Electrical,558726678.4,661062067.13,1771,Private,Unlisted,,2024,EUR,Medium,Yes
+540,CP (Comboios de Portugal),Portugal,Portugal,Southern Europe,Automotive/Transport,Shipping,Container Shipping,4259430919.65,6552948789.79,23286,Public,Listed,CPCO.LS,2024,EUR,Large,Yes
+541,Generali Group,Italy,Italy,Southern Europe,Financial Services,Banking,Retail Banking,612318420.52,6245070107.47,1907,Private,Unlisted,,2024,EUR,Medium,Yes
+542,Palfinger AG,Austria,Austria,Central Europe,Construction/Industrials,Professional Services,Facility Services,1319095927.27,2144578826.9,7819,Private,Unlisted,,2024,EUR,Medium,Yes
+543,Basware Oyj,Finland,Finland,Northern Europe,Technology,Internet,E-Commerce Platform,868377131.56,979077262.0,2523,Private,Unlisted,,2024,EUR,Medium,Yes
+544,Kaufland,Germany,Germany,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,14814466425.93,13216322308.32,82206,Public,Listed,KAUF.DE,2024,EUR,Large,Yes
+545,AstraZeneca (Sweden ops),Sweden,Sweden,Northern Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,1079610714.26,2650506771.37,4318,Private,Unlisted,,2024,EUR,Medium,Yes
+546,Coop Italia,Italy,Italy,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,1374687369.21,1765231432.97,8818,Private,Unlisted,,2024,EUR,Medium,Yes
+547,SES-imagotag,France,France,Western Europe,Technology,Semiconductors,Semiconductor Devices,17371226482.58,14379970010.31,39520,Public,Listed,SESI.PA,2024,EUR,Large,Yes
+548,Modern Times Group (MTG),Sweden,Sweden,Northern Europe,Technology,Hardware,Electronic Components,61566803108.22,104552880850.69,77227,Public,Listed,MODE.ST,2024,EUR,Large,Yes
+549,Smurfit Kappa Group,Ireland,Ireland,Western Europe,Manufacturing,Paper & Packaging,Packaging,18059371010.21,39194857575.69,42539,Public,Unlisted,,2024,EUR,Large,Yes
+550,Dalata Hotel Group,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,797371320.86,825664602.17,5204,Public,Listed,DALA.IR,2024,EUR,Medium,Yes
+551,Jerónimo Martins,Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,73679303044.59,89137379777.56,659166,Public,Listed,JERÓ.LS,2024,EUR,Large,Yes
+552,Erste Group Bank,Austria,Austria,Central Europe,Financial Services,Capital Markets,Exchange / Clearing,832956401.28,15240332565.94,1587,Public,Listed,ERST.VI,2024,EUR,Medium,Yes
+553,Nexans SA,France,France,Western Europe,Manufacturing,Chemicals,Specialty Chemicals,13251581735.25,28427411192.04,46211,Public,Listed,NEXA.PA,2024,EUR,Large,Yes
+554,Tereos Sugar,France,France,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,163472967.53,208363677.24,1244,Public,Listed,TERE.PA,2024,EUR,Medium,Yes
+555,Globus SB-Warenhaus,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,16950033779.66,13598474315.31,70976,Private,Unlisted,,2024,EUR,Large,Yes
+556,Amplifon S.p.A.,Italy,Italy,Southern Europe,Healthcare/Pharma,Biotechnology,Biotech,2626424574.44,3629764437.07,9672,Public,Listed,AMPL.MI,2024,EUR,Large,Yes
+557,FLSmidth & Co.,Denmark,Denmark,Northern Europe,Construction/Industrials,Building Products,Building Materials,345922587.52,549671604.24,1696,Private,Unlisted,,2024,EUR,Medium,Yes
+558,Suez SA,France,France,Western Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,80476934557.6,276355721747.44,67610,Public,Listed,SUEZ.PA,2024,EUR,Large,Yes
+559,Galp Energia,Portugal,Portugal,Southern Europe,Energy/Utilities,Gas Utilities,Gas Distribution,45839259.54,119894379.59,63,Private,Unlisted,,2024,EUR,Small,No
+560,Biesse Group,Italy,Italy,Southern Europe,Construction/Industrials,Machinery,Agricultural Machinery,379525320.83,805157390.08,2207,Private,Unlisted,,2024,EUR,Medium,Yes
+561,Tubos Reunidos,Spain,Spain,Southern Europe,Manufacturing,Metals & Mining,Steel,88370800388.46,160714474692.97,390546,Public,Listed,TUBO.MC,2024,EUR,Large,Yes
+562,Kendrion N.V.,Netherlands,Netherlands,Western Europe,Construction/Industrials,Construction,General Contracting,208504394.12,408560226.43,987,Private,Unlisted,,2024,EUR,Medium,Yes
+563,DNA Oyj,Finland,Finland,Northern Europe,Telecommunications,Satellite,Satellite Services,55208697276.19,100269340323.34,155279,Public,Unlisted,,2024,EUR,Large,Yes
+564,InPost S.A.,Poland,Poland,Central Europe,Automotive/Transport,Automotive OEM,Passenger Vehicles,90268794.28,111285510.11,481,Private,Unlisted,,2024,EUR,Small,No
+565,Solvay SA,France,France,Western Europe,Manufacturing,Chemicals,Specialty Chemicals,20253882.07,44229200.71,90,Private,Unlisted,,2024,EUR,Small,No
+566,Jyske Bank,Denmark,Denmark,Northern Europe,Financial Services,Asset Management,Asset Management,33611238831.19,579950899318.33,52743,Public,Listed,JYSK.CO,2024,EUR,Large,Yes
+567,Elia Group,Belgium,Belgium,Western Europe,Energy/Utilities,Integrated Oil & Gas,Integrated Oil & Gas,32248459029.07,142541600460.28,28720,Public,Unlisted,,2024,EUR,Large,Yes
+568,Cegedim,France,France,Western Europe,Technology,Semiconductors,Semiconductor Devices,7465949547.62,8796404482.37,11059,Public,Listed,CEGE.PA,2024,EUR,Large,Yes
+569,Ibersol,Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Household Products,Household Goods,1350059163.21,1725448186.39,4657,Private,Unlisted,,2024,EUR,Medium,Yes
+570,Axel Springer SE,Germany,Germany,Central Europe,Consumer Goods/Retail,E-Commerce,Online Retail,54762796.46,76836463.28,182,Private,Unlisted,,2024,EUR,Small,No
+571,Volkswagen AG,Germany,Germany,Central Europe,Automotive/Transport,Automotive OEM,Passenger Vehicles,410336544.22,803894664.94,1563,Private,Unlisted,,2024,EUR,Medium,Yes
+572,Scout24 SE,Germany,Germany,Central Europe,Technology,Internet,Digital Media,4034847499.27,4747843270.73,5241,Public,Listed,SCOU.DE,2024,EUR,Large,Yes
+573,Unibail-Rodamco-Westfield,France,France,Western Europe,Construction/Industrials,Real Estate,Residential Real Estate,30159400310.83,33836222297.87,125381,Public,Listed,UNIB.PA,2024,EUR,Large,Yes
+574,Paddy Power Betfair,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,1029436777.48,1528882127.38,8798,Private,Unlisted,,2024,EUR,Medium,Yes
+575,Ignitis Group,Lithuania,Lithuania,Northern Europe,Energy/Utilities,Gas Utilities,Gas Distribution,230217232.42,834585705.75,213,Private,Unlisted,,2024,EUR,Medium,No
+576,KPN N.V.,Netherlands,Netherlands,Western Europe,Telecommunications,Integrated Telecom,Integrated Telecom,269687689.13,437306172.15,658,Private,Unlisted,,2024,EUR,Medium,Yes
+577,Banca Popolare di Sondrio,Italy,Italy,Southern Europe,Financial Services,Insurance,P&C Insurance,417078539.91,3926927066.75,1293,Public,Listed,BANC.MI,2024,EUR,Medium,Yes
+578,Dolce & Gabbana,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,8942025210.25,11821373980.95,62343,Public,Listed,DOLC.MI,2024,EUR,Large,Yes
+579,Generali France,France,France,Western Europe,Financial Services,Insurance,Life Insurance,346937366.47,5995345268.64,831,Public,Listed,GENE.PA,2024,EUR,Medium,Yes
+580,TeamViewer SE,Germany,Germany,Central Europe,Technology,Internet,E-Commerce Platform,1266158421.66,1859105954.52,1780,Public,Listed,TEAM.DE,2024,EUR,Medium,Yes
+581,Magyar Posta,Hungary,Hungary,Central Europe,Automotive/Transport,Airlines,Passenger Airline,30197136400.84,44100303891.21,90494,Public,Listed,MAGY.BU,2024,EUR,Large,Yes
+582,FinecoBank,Italy,Italy,Southern Europe,Financial Services,Capital Markets,Exchange / Clearing,64759979977.26,1192728061863.69,122222,Public,Listed,FINE.MI,2024,EUR,Large,Yes
+583,Exor N.V.,Netherlands,Netherlands,Western Europe,Financial Services,Diversified Financials,Holding Company,30704413.83,473030233.88,121,Private,Unlisted,,2024,EUR,Small,No
+584,Vodafone Greece,Greece,Greece,Southern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,248348105.94,750634743.02,727,Public,Listed,VODA.AT,2024,EUR,Medium,Yes
+585,IAG (International Airlines Group),Spain,Spain,Southern Europe,Automotive/Transport,Logistics,Road Freight,45530173001.22,104961192161.88,201437,Public,Listed,IAGI.MC,2024,EUR,Large,Yes
+586,Orange Romania,Romania,Romania,Eastern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,188195328.91,286280221.52,835,Public,Listed,ORAN.BVB,2024,EUR,Medium,Yes
+587,Solaris Bus & Coach,Poland,Poland,Central Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,59504054.94,107613634.1,325,Private,Unlisted,,2024,EUR,Small,No
+588,Kemira Oyj,Finland,Finland,Northern Europe,Manufacturing,Metals & Mining,Non-Ferrous Metals,4572137016.3,8647477189.84,21969,Public,Listed,KEMI.HE,2024,EUR,Large,Yes
+589,VR Group,Finland,Finland,Northern Europe,Automotive/Transport,Logistics,Road Freight,43475335.12,101958332.05,190,Private,Unlisted,,2024,EUR,Small,No
+590,Dino Polska,Poland,Poland,Central Europe,Consumer Goods/Retail,Food & Beverage,Beverages,4307917449.83,7705495132.48,35831,Public,Listed,DINO.WA,2024,EUR,Large,Yes
+591,PSI Software,Germany,Germany,Central Europe,Technology,IT Services,Managed Services,751489743.65,851152063.75,1394,Public,Listed,PSIS.DE,2024,EUR,Medium,Yes
+592,Magyar Telekom,Hungary,Hungary,Central Europe,Telecommunications,Satellite,Satellite Services,711578358.25,1408757006.78,2908,Public,Listed,MAGY.BU,2024,EUR,Medium,Yes
+593,Eurotech SpA,Italy,Italy,Southern Europe,Technology,Hardware,Electronic Components,19855085.99,31117615.39,26,Public,Listed,EURO.MI,2024,EUR,Small,No
+594,Ernst & Young Germany,Germany,Germany,Central Europe,Financial Services,Banking,Commercial Banking,67697717.73,688893911.12,127,Private,Unlisted,,2024,EUR,Small,No
+595,Wienerberger AG,Austria,Austria,Central Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,78024216575.61,92424112891.31,410730,Public,Listed,WIEN.VI,2024,EUR,Large,Yes
+596,Maisons du Monde,France,France,Western Europe,Consumer Goods/Retail,Media & Entertainment,Media,224554223.66,157288993.47,1166,Private,Unlisted,,2024,EUR,Medium,Yes
+597,VGP NV,Belgium,Belgium,Western Europe,Construction/Industrials,Construction,General Contracting,85290608.83,112475522.62,344,Private,Unlisted,,2024,EUR,Small,No
+598,Krka d.d.,Slovenia,Slovenia,Southern Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,19524383.26,46426339.34,99,Private,Unlisted,,2024,EUR,Small,No
+599,Bouygues SA,France,France,Western Europe,Construction/Industrials,Professional Services,Facility Services,52155706.5,79057226.55,286,Private,Unlisted,,2024,EUR,Small,No
+600,Cairn Homes,Ireland,Ireland,Western Europe,Construction/Industrials,Real Estate,Residential Real Estate,1054879461.4,1738803684.29,3722,Public,Listed,CAIR.IR,2024,EUR,Medium,Yes
+601,LEO Pharma,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Medical Devices,Medical Devices,387967276.91,893071171.48,1690,Private,Unlisted,,2024,EUR,Medium,Yes
+602,bol.com,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,2097428834.03,2178141511.97,12975,Private,Unlisted,,2024,EUR,Large,Yes
+603,Martifer SGPS,Portugal,Portugal,Southern Europe,Construction/Industrials,Construction,General Contracting,18347807897.66,29171884488.05,101156,Public,Listed,MART.LS,2024,EUR,Large,Yes
+604,Synthos S.A.,Poland,Poland,Central Europe,Manufacturing,Chemicals,Specialty Chemicals,46382281.68,93720418.11,168,Private,Unlisted,,2024,EUR,Small,No
+605,Novo Banco,Portugal,Portugal,Southern Europe,Financial Services,Insurance,P&C Insurance,42159023016.63,570864601505.37,87141,Public,Listed,NOVO.LS,2024,EUR,Large,Yes
+606,Demant A/S,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,877426507.01,1817211988.24,2879,Private,Unlisted,,2024,EUR,Medium,Yes
+607,Volvo Cars,Sweden,Sweden,Northern Europe,Automotive/Transport,Airport Operator,Airport Operator,182914833.69,262075488.28,985,Private,Unlisted,,2024,EUR,Medium,Yes
+608,Kerry Group,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Personal Products,Cosmetics,1212737312.89,1876232830.64,6097,Public,Listed,KERR.IR,2024,EUR,Medium,Yes
+609,Cupra,Spain,Spain,Southern Europe,Automotive/Transport,Rail,Rail Operator,104867951.52,256841423.58,425,Private,Unlisted,,2024,EUR,Small,No
+610,Deutsche Bahn AG,Germany,Germany,Central Europe,Automotive/Transport,Rail,Rail Operator,297897707.99,690773855.04,1014,Private,Unlisted,,2024,EUR,Medium,Yes
+611,GO plc,Malta,Malta,Southern Europe,Telecommunications,Satellite,Satellite Services,892056041.81,2355854774.11,2606,Private,Unlisted,,2024,EUR,Medium,Yes
+612,Valmet Oyj,Finland,Finland,Northern Europe,Construction/Industrials,Aerospace & Defense,Defense,920514687.57,1975394189.89,4761,Private,Unlisted,,2024,EUR,Medium,Yes
+613,Codorníu Raventós,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,24339359.85,40289172.08,87,Private,Unlisted,,2024,EUR,Small,No
+614,C&A Europe,Germany,Germany,Central Europe,Consumer Goods/Retail,E-Commerce,Online Retail,12486006145.89,15998249519.6,50231,Public,Listed,CAEU.DE,2024,EUR,Large,Yes
+615,Ascopiave,Italy,Italy,Southern Europe,Energy/Utilities,Gas Utilities,Gas Distribution,3566661959.02,14192824762.04,6535,Public,Unlisted,,2024,EUR,Large,Yes
+616,Aldi Nord,Germany,Germany,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,1068259112.3,1837155235.65,4349,Public,Listed,ALDI.DE,2024,EUR,Medium,Yes
+617,Safran SA,France,France,Western Europe,Construction/Industrials,Real Estate,Residential Real Estate,264030392.77,304061408.67,1760,Public,Listed,SAFR.PA,2024,EUR,Medium,Yes
+618,Atoss Software,Germany,Germany,Central Europe,Technology,Internet,E-Commerce Platform,2501080367.59,4541522809.38,6487,Public,Listed,ATOS.DE,2024,EUR,Large,Yes
+619,dm-drogerie markt,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,17290767.32,24326210.49,131,Private,Unlisted,,2024,EUR,Small,No
+620,Applus Services,Spain,Spain,Southern Europe,Technology,Software,Consumer Software,6664847405.61,11155833838.64,12244,Public,Listed,APPL.MC,2024,EUR,Large,Yes
+621,Schwarz Gruppe,Germany,Germany,Central Europe,Consumer Goods/Retail,Food Retail,Discount Retail,261982805.08,237227279.45,891,Public,Listed,SCHW.DE,2024,EUR,Medium,Yes
+622,Renta 4 Banco,Spain,Spain,Southern Europe,Financial Services,Diversified Financials,Holding Company,2955054878.67,49927875444.58,6112,Public,Listed,RENT.MC,2024,EUR,Large,Yes
+623,Agrana Beteiligungs-AG,Austria,Austria,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,8693650643.7,13946940483.42,65648,Public,Listed,AGRA.VI,2024,EUR,Large,Yes
+624,Wielton S.A.,Poland,Poland,Central Europe,Automotive/Transport,Airlines,Cargo Airline,247819366.05,481234364.73,1135,Private,Unlisted,,2024,EUR,Medium,Yes
+625,Fielmann AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Personal Products,Cosmetics,186180844.77,334365157.88,1528,Private,Unlisted,,2024,EUR,Medium,Yes
+626,Virbac SA,France,France,Western Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,754245190.71,1628511584.41,3930,Private,Unlisted,,2024,EUR,Medium,Yes
+627,Proximus Group,Belgium,Belgium,Western Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,800794688.4,1383195230.32,3165,Private,Unlisted,,2024,EUR,Medium,Yes
+628,Aegon Asset Management,Netherlands,Netherlands,Western Europe,Financial Services,Banking,Investment Banking,45090997683.61,588813200179.22,118190,Public,Listed,AEGO.AS,2024,EUR,Large,Yes
+629,Iberia,Spain,Spain,Southern Europe,Automotive/Transport,Logistics,Road Freight,285374528.55,455577967.99,1245,Private,Unlisted,,2024,EUR,Medium,Yes
+630,Telecom Italia,Italy,Italy,Southern Europe,Telecommunications,Wireless Telecom,Mobile Operator,5783751550.65,11115012154.43,24789,Public,Listed,TELE.MI,2024,EUR,Large,Yes
+631,Farfetch (Portugal ops),Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,42421633423.6,73362387473.26,127412,Public,Listed,FARF.LS,2024,EUR,Large,Yes
+632,Glanbia plc,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Food & Beverage,Beverages,25447948.94,41711300.41,133,Private,Unlisted,,2024,EUR,Small,No
+633,Corticeira Amorim,Portugal,Portugal,Southern Europe,Manufacturing,Metals & Mining,Non-Ferrous Metals,175121841.92,187656293.08,640,Private,Unlisted,,2024,EUR,Medium,Yes
+634,T-Mobile Czech Republic,Czechia,Czechia,Central Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,1093935477.18,3416218983.72,2284,Private,Unlisted,,2024,EUR,Medium,Yes
+635,Camper,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,115242622.71,196926944.16,783,Private,Unlisted,,2024,EUR,Small,No
+636,Renault SA,France,France,Western Europe,Automotive/Transport,Airport Operator,Airport Operator,817565215.56,1559180484.37,4184,Private,Unlisted,,2024,EUR,Medium,Yes
+637,UPM-Kymmene,Finland,Finland,Northern Europe,Manufacturing,Chemicals,Commodity Chemicals,52040606.46,113403265.08,249,Public,Listed,UPMK.HE,2024,EUR,Small,No
+638,Mediaset España,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,62164734.64,48669615.48,530,Private,Unlisted,,2024,EUR,Small,No
+639,Aedas Homes,Spain,Spain,Southern Europe,Construction/Industrials,Construction,General Contracting,748171901.64,1360940751.53,5094,Private,Unlisted,,2024,EUR,Medium,Yes
+640,Asseco Poland,Poland,Poland,Central Europe,Technology,Software,Consumer Software,2840958722.05,4615017007.86,7308,Public,Listed,ASSE.WA,2024,EUR,Large,Yes
+641,Valio Oy,Finland,Finland,Northern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,655908893.56,718208014.62,4185,Public,Listed,VALI.HE,2024,EUR,Medium,Yes
+642,Unicaja Banco,Spain,Spain,Southern Europe,Financial Services,Insurance,Reinsurance,602116507.48,6109705594.64,2041,Private,Unlisted,,2024,EUR,Medium,Yes
+643,Indel B,Italy,Italy,Southern Europe,Construction/Industrials,Construction,General Contracting,20254171772.54,34873629901.95,110756,Public,Listed,INDE.MI,2024,EUR,Large,Yes
+644,Paul Hartmann AG,Germany,Germany,Central Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,9244742045.78,18775436503.46,36170,Public,Listed,PAUL.DE,2024,EUR,Large,Yes
+645,Swarovski,Austria,Austria,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,142701507.32,245381254.0,836,Private,Unlisted,,2024,EUR,Small,No
+646,Ipsen SA,France,France,Western Europe,Healthcare/Pharma,Medical Devices,Medical Devices,187960343.51,394641616.57,623,Private,Unlisted,,2024,EUR,Medium,Yes
+647,Plzeňský Prazdroj,Czechia,Czechia,Central Europe,Consumer Goods/Retail,Household Products,Household Goods,1133863771.58,1752356465.23,4859,Public,Listed,PLZE.PR,2024,EUR,Medium,Yes
+648,Folli Follie Group,Greece,Greece,Southern Europe,Consumer Goods/Retail,Media & Entertainment,Media,147471360.25,170639815.12,1066,Private,Unlisted,,2024,EUR,Small,No
+649,Veoneer Inc,Sweden,Sweden,Northern Europe,Automotive/Transport,Airport Operator,Airport Operator,22636671.6,33518557.68,120,Private,Unlisted,,2024,EUR,Small,No
+650,Telia Lietuva,Lithuania,Lithuania,Northern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,42733206084.03,104252292922.07,101706,Public,Listed,TELI.EU,2024,EUR,Large,Yes
+651,Colonial (Inmobiliaria Colonial),Spain,Spain,Southern Europe,Construction/Industrials,Real Estate,Residential Real Estate,1165452684.35,1402405399.45,5899,Private,Unlisted,,2024,EUR,Medium,Yes
+652,Groupe Bel,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,293446993.63,219283638.62,2587,Private,Unlisted,,2024,EUR,Medium,Yes
+653,Nordnet AB,Sweden,Sweden,Northern Europe,Financial Services,Banking,Retail Banking,6034446181.33,108456614277.25,18687,Public,Listed,NORD.ST,2024,EUR,Large,Yes
+654,Illycaffè,Italy,Italy,Southern Europe,Consumer Goods/Retail,Household Products,Household Goods,363523176.69,368515017.3,1876,Private,Unlisted,,2024,EUR,Medium,Yes
+655,Bayer AG,Germany,Germany,Central Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,6188917501.46,14015363719.54,16919,Private,Unlisted,,2024,EUR,Large,Yes
+656,Rational AG,Germany,Germany,Central Europe,Construction/Industrials,Machinery,Industrial Machinery,196663149.62,388516682.74,841,Public,Listed,RATI.DE,2024,EUR,Medium,Yes
+657,BASF SE,Germany,Germany,Central Europe,Manufacturing,Paper & Packaging,Paper Products,30443904709.38,63534543094.31,67822,Public,Listed,BASF.DE,2024,EUR,Large,Yes
+658,Nordex SE,Germany,Germany,Central Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,87553173270.23,289024387175.08,137032,Public,Listed,NORD.DE,2024,EUR,Large,Yes
+659,Outokumpu Oyj,Finland,Finland,Northern Europe,Manufacturing,Paper & Packaging,Packaging,302177727.78,611859470.94,1022,Public,Listed,OUTO.HE,2024,EUR,Medium,Yes
+660,Pivovary Staropramen,Czechia,Czechia,Central Europe,Consumer Goods/Retail,Media & Entertainment,Media,392252532.14,639602561.78,3231,Public,Listed,PIVO.PR,2024,EUR,Medium,Yes
+661,Neinor Homes,Spain,Spain,Southern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,874541155.42,1197694748.47,3888,Private,Unlisted,,2024,EUR,Medium,Yes
+662,Brunello Cucinelli S.p.A.,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,245432273.03,199874711.65,956,Private,Unlisted,,2024,EUR,Medium,Yes
+663,STEF Group,France,France,Western Europe,Automotive/Transport,Shipping,Container Shipping,514974123.47,827872549.35,2812,Public,Listed,STEF.PA,2024,EUR,Medium,Yes
+664,Terna S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Refining & Marketing,Downstream,370239584.42,1441269257.99,577,Public,Listed,TERN.MI,2024,EUR,Medium,Yes
+665,Barco NV,Belgium,Belgium,Western Europe,Technology,Internet,E-Commerce Platform,205194896.49,194302888.37,563,Public,Listed,BARC.BR,2024,EUR,Medium,Yes
+666,Boskalis Westminster,Netherlands,Netherlands,Western Europe,Construction/Industrials,Construction,General Contracting,19409617104.41,39179715411.26,123954,Public,Listed,BOSK.AS,2024,EUR,Large,Yes
+667,Zalando SE,Germany,Germany,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,170485493.1,165427690.55,915,Public,Listed,ZALA.DE,2024,EUR,Medium,Yes
+668,Zentiva Group (CZ),Czechia,Czechia,Central Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,303605703.76,314727086.5,1001,Private,Unlisted,,2024,EUR,Medium,Yes
+669,Pandora A/S,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,1230140367.52,1721913189.93,4718,Private,Unlisted,,2024,EUR,Medium,Yes
+670,Meliá Hotels International,Spain,Spain,Southern Europe,Consumer Goods/Retail,Media & Entertainment,Media,344515675.9,366854172.62,1651,Public,Listed,MELI.MC,2024,EUR,Medium,Yes
+671,Seb Group,France,France,Western Europe,Consumer Goods/Retail,Personal Products,Cosmetics,730416351.5,617332796.78,4133,Private,Unlisted,,2024,EUR,Medium,Yes
+672,Raiffeisen Bank International,Austria,Austria,Central Europe,Financial Services,Banking,Investment Banking,86706763.08,1401493137.66,345,Private,Unlisted,,2024,EUR,Small,No
+673,Stock Plzeň-Božkov,Czechia,Czechia,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,462350652.91,667374794.03,1551,Public,Listed,STOC.PR,2024,EUR,Medium,Yes
+674,Loewe (LVMH),Spain,Spain,Southern Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,41214076.87,61530946.38,127,Private,Unlisted,,2024,EUR,Small,No
+675,Tauron Polska Energia,Poland,Poland,Central Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,17908947902.71,33942277905.35,15882,Public,Listed,TAUR.WA,2024,EUR,Large,Yes
+676,Lactalis Group,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Beverages,693419725.62,734274662.96,2249,Public,Listed,LACT.PA,2024,EUR,Medium,Yes
+677,Končar Group,Croatia,Croatia,Southern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,54972922866.3,80267081858.54,278139,Public,Listed,KONČ.EU,2024,EUR,Large,Yes
+678,Voestalpine AG,Austria,Austria,Central Europe,Manufacturing,Metals & Mining,Non-Ferrous Metals,241353542.08,286902495.3,631,Public,Listed,VOES.VI,2024,EUR,Medium,Yes
+679,Basic Fit International,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,1755392240.68,2859146171.14,13665,Public,Listed,BASI.AS,2024,EUR,Large,Yes
+680,Icade SA,France,France,Western Europe,Construction/Industrials,Aerospace & Defense,Defense,2140210901.44,2841527005.58,7562,Public,Listed,ICAD.PA,2024,EUR,Large,Yes
+681,JM AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,471088381.7,704408315.03,3124,Private,Unlisted,,2024,EUR,Medium,Yes
+682,Moncler S.p.A.,Italy,Italy,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,70492912301.13,50162452540.4,627227,Public,Listed,MONC.MI,2024,EUR,Large,Yes
+683,Nedap N.V.,Netherlands,Netherlands,Western Europe,Technology,Software,Enterprise Software,363081245.83,506864205.84,859,Private,Unlisted,,2024,EUR,Medium,Yes
+684,IPL Plastics,Ireland,Ireland,Western Europe,Manufacturing,Chemicals,Commodity Chemicals,302097663.93,486895470.43,1170,Private,Unlisted,,2024,EUR,Medium,Yes
+685,Systemair AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Construction,Civil Engineering,1896426576.57,2924261585.01,8460,Public,Listed,SYST.ST,2024,EUR,Large,Yes
+686,Corbion N.V.,Netherlands,Netherlands,Western Europe,Manufacturing,Paper & Packaging,Paper Products,1894097637.85,2314252036.45,4904,Private,Unlisted,,2024,EUR,Large,Yes
+687,Antolin Group,Spain,Spain,Southern Europe,Automotive/Transport,Shipping,Container Shipping,345579164.34,604270796.27,1183,Public,Listed,ANTO.MC,2024,EUR,Medium,Yes
+688,ASM International,Netherlands,Netherlands,Western Europe,Technology,Semiconductors,Semiconductor Devices,3778313552.36,6041624094.15,9556,Public,Listed,ASMI.AS,2024,EUR,Large,Yes
+689,Syensqo SA,Belgium,Belgium,Western Europe,Manufacturing,Chemicals,Commodity Chemicals,272558190.52,307764636.22,624,Public,Listed,SYEN.BR,2024,EUR,Medium,Yes
+690,Auchan,France,France,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,40489647711.11,40920880598.31,254936,Public,Listed,AUCH.PA,2024,EUR,Large,Yes
+691,SUSS MicroTec,Germany,Germany,Central Europe,Technology,Internet,Digital Media,3024850314.58,4810276117.63,7811,Public,Listed,SUSS.DE,2024,EUR,Large,Yes
+692,Ellaktor,Greece,Greece,Southern Europe,Construction/Industrials,Construction,General Contracting,118963694.43,126502239.62,423,Private,Unlisted,,2024,EUR,Small,No
+693,Industrivärden AB,Sweden,Sweden,Northern Europe,Financial Services,Insurance,Life Insurance,5792309217.94,81617986781.32,15128,Private,Unlisted,,2024,EUR,Large,Yes
+694,Krones AG,Germany,Germany,Central Europe,Construction/Industrials,Building Products,Building Materials,6838089633.41,14573390219.58,25615,Public,Unlisted,,2024,EUR,Large,Yes
+695,Elringklinger AG,Germany,Germany,Central Europe,Automotive/Transport,Airport Operator,Airport Operator,365228759.89,615021552.13,1576,Private,Unlisted,,2024,EUR,Medium,Yes
+696,Hellenic Petroleum,Greece,Greece,Southern Europe,Energy/Utilities,Renewable Energy,Wind,3679172178.29,9524319943.52,4200,Public,Listed,HELL.AT,2024,EUR,Large,Yes
+697,Billerud AB,Sweden,Sweden,Northern Europe,Manufacturing,Chemicals,Commodity Chemicals,5396022495.29,6294432730.3,15186,Public,Listed,BILL.ST,2024,EUR,Large,Yes
+698,Olainfarm,Latvia,Latvia,Northern Europe,Healthcare/Pharma,Medical Devices,Medical Devices,92253361876.05,226393047711.53,497362,Public,Listed,OLAI.EU,2024,EUR,Large,Yes
+699,Geox S.p.A.,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,504033647.75,448871998.74,3521,Private,Unlisted,,2024,EUR,Medium,Yes
+700,WDP (Warehouses De Pauw),Belgium,Belgium,Western Europe,Construction/Industrials,Real Estate,Commercial Real Estate,11938845550.59,18493324418.73,53355,Public,Listed,WDPW.BR,2024,EUR,Large,Yes
+701,Fresenius Medical Care AG,Germany,Germany,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,686995275.94,831577401.05,1648,Public,Listed,FRES.DE,2024,EUR,Medium,Yes
+702,CMA CGM,France,France,Western Europe,Automotive/Transport,Airport Operator,Airport Operator,333853670.03,775580536.6,859,Public,Listed,CMAC.PA,2024,EUR,Medium,Yes
+703,Peab AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Construction,Civil Engineering,81272120026.19,86896143214.83,308518,Private,Unlisted,,2024,EUR,Large,Yes
+704,Eir (eircom),Ireland,Ireland,Western Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,459390127.4,917150601.32,1196,Public,Listed,EIRE.IR,2024,EUR,Medium,Yes
+705,Amica S.A.,Poland,Poland,Central Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,332614236.18,572153647.0,2556,Private,Unlisted,,2024,EUR,Medium,Yes
+706,BAM Group,Netherlands,Netherlands,Western Europe,Construction/Industrials,Professional Services,Facility Services,71913496.65,155375943.07,344,Private,Unlisted,,2024,EUR,Small,No
+707,Elica SpA,Italy,Italy,Southern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,388635933.4,719851290.08,1805,Private,Unlisted,,2024,EUR,Medium,Yes
+708,Tesmec SpA,Italy,Italy,Southern Europe,Construction/Industrials,Real Estate,Residential Real Estate,692691086.73,847616253.26,2402,Public,Listed,TESM.MI,2024,EUR,Medium,Yes
+709,Ferrero S.p.A.,Italy,Italy,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,2039095189.51,2048940770.36,6287,Public,Listed,FERR.MI,2024,EUR,Large,Yes
+710,Arkema SA,France,France,Western Europe,Manufacturing,Paper & Packaging,Packaging,66425473867.41,128820474272.59,316914,Private,Unlisted,,2024,EUR,Large,Yes
+711,Maire Tecnimont,Italy,Italy,Southern Europe,Construction/Industrials,Construction,Civil Engineering,340994506.62,677651821.08,1893,Public,Listed,MAIR.MI,2024,EUR,Medium,Yes
+712,Guerbet SA,France,France,Western Europe,Healthcare/Pharma,Medical Devices,Medical Devices,19550142.98,22985725.79,48,Public,Listed,GUER.PA,2024,EUR,Small,No
+713,Hermès Parfums,France,France,Western Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,42653007166.87,37502466847.03,217105,Public,Listed,HERM.PA,2024,EUR,Large,Yes
+714,Jungheinrich AG,Germany,Germany,Central Europe,Construction/Industrials,Real Estate,Commercial Real Estate,4642142373.93,5724493356.05,27852,Public,Listed,JUNG.DE,2024,EUR,Large,Yes
+715,PGE Polska Grupa Energetyczna,Poland,Poland,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,852438338.21,2568334846.82,787,Public,Listed,PGEP.WA,2024,EUR,Medium,Yes
+716,NN Group,Netherlands,Netherlands,Western Europe,Financial Services,Asset Management,Asset Management,16067242528.71,226327645729.7,62826,Public,Listed,NNGR.AS,2024,EUR,Large,Yes
+717,Armani Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,722633799.32,661384079.24,3409,Public,Listed,ARMA.MI,2024,EUR,Medium,Yes
+718,MF Fashion (Corneliani),Italy,Italy,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,30521801200.82,51263404667.36,177792,Public,Listed,MFFA.MI,2024,EUR,Large,Yes
+719,Intesa Sanpaolo,Italy,Italy,Southern Europe,Financial Services,Banking,Investment Banking,8448155176.49,69766530645.55,12720,Public,Listed,INTE.MI,2024,EUR,Large,Yes
+720,Trumpf GmbH,Germany,Germany,Central Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,455791162.57,616582520.24,2599,Public,Listed,TRUM.DE,2024,EUR,Medium,Yes
+721,UBM Development,Austria,Austria,Central Europe,Construction/Industrials,Professional Services,Facility Services,1501633076.74,2957588032.69,9329,Public,Listed,UBMD.VI,2024,EUR,Large,Yes
+722,Recticel NV,Belgium,Belgium,Western Europe,Manufacturing,Industrial Gases,Industrial Gases,389237927.48,526984066.07,1095,Private,Unlisted,,2024,EUR,Medium,Yes
+723,OTP Bank,Hungary,Hungary,Central Europe,Financial Services,Capital Markets,Exchange / Clearing,165499547.42,2645568051.57,456,Public,Listed,OTPB.BU,2024,EUR,Medium,Yes
+724,Bravida Holding,Sweden,Sweden,Northern Europe,Construction/Industrials,Professional Services,Facility Services,6362417278.31,9408851468.54,40517,Public,Listed,BRAV.ST,2024,EUR,Large,Yes
+725,Lotos Group,Poland,Poland,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,481054795.63,1131067961.66,951,Public,Listed,LOTO.WA,2024,EUR,Medium,Yes
+726,Datagroup SE,Germany,Germany,Central Europe,Technology,Internet,Digital Media,10900386102.37,20970268478.53,26782,Private,Unlisted,,2024,EUR,Large,Yes
+727,Tchibo,Germany,Germany,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,200180835.64,240831024.09,1263,Public,Listed,TCHI.DE,2024,EUR,Medium,Yes
+728,Nuclearelectrica,Romania,Romania,Eastern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,581871230.82,2222524705.7,790,Private,Unlisted,,2024,EUR,Medium,Yes
+729,Caixa Geral de Depósitos,Portugal,Portugal,Southern Europe,Financial Services,Insurance,Reinsurance,3751955110.08,34435723287.1,12293,Public,Listed,CAIX.LS,2024,EUR,Large,Yes
+730,Ciech S.A.,Poland,Poland,Central Europe,Manufacturing,Chemicals,Specialty Chemicals,9922017717.54,20768913304.02,37163,Public,Listed,CIEC.WA,2024,EUR,Large,Yes
+731,Grupa Azoty,Poland,Poland,Central Europe,Manufacturing,Metals & Mining,Steel,85025367.98,169459957.9,235,Private,Unlisted,,2024,EUR,Small,No
+732,BGL BNP Paribas,Luxembourg,Luxembourg,Western Europe,Financial Services,Diversified Financials,Holding Company,25536467855.91,480082396823.43,47754,Private,Unlisted,,2024,EUR,Large,Yes
+733,Ramsay Santé,France,France,Western Europe,Healthcare/Pharma,Medical Devices,Medical Devices,75558848162.37,147505998433.73,362150,Private,Unlisted,,2024,EUR,Large,Yes
+734,Iren S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,6882346568.87,29454851914.98,10442,Public,Listed,IREN.MI,2024,EUR,Large,Yes
+735,Irizar S. Coop.,Spain,Spain,Southern Europe,Automotive/Transport,Logistics,Road Freight,73790881028.42,141837928304.44,241877,Public,Listed,IRIZ.MC,2024,EUR,Large,Yes
+736,REN (Redes Energéticas Nacionais),Portugal,Portugal,Southern Europe,Energy/Utilities,Refining & Marketing,Downstream,65705805581.5,132492223773.77,119754,Public,Listed,RENR.LS,2024,EUR,Large,Yes
+737,Grupa Kęty,Poland,Poland,Central Europe,Manufacturing,Metals & Mining,Non-Ferrous Metals,41473044.26,67549686.46,128,Private,Unlisted,,2024,EUR,Small,No
+738,Anheuser-Busch InBev,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,8793663266.62,12722355886.41,67529,Public,Listed,ANHE.BR,2024,EUR,Large,Yes
+739,Ceconomy AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,57026675991.98,50294497444.37,512708,Private,Unlisted,,2024,EUR,Large,Yes
+740,LVMH,France,France,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,32655271.67,41359087.64,110,Public,Listed,LVMH.PA,2024,EUR,Small,No
+741,Bureau Veritas,France,France,Western Europe,Construction/Industrials,Construction,Civil Engineering,466264988.21,512318402.42,2449,Private,Unlisted,,2024,EUR,Medium,Yes
+742,Red Eléctrica Corporación,Spain,Spain,Southern Europe,Energy/Utilities,Renewable Energy,Wind,2176330302.48,7009454003.7,1095,Public,Listed,REDE.MC,2024,EUR,Large,Yes
+743,Metrovacesa,Spain,Spain,Southern Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,15126333.06,23511229.72,56,Private,Unlisted,,2024,EUR,Small,No
+744,Benetton Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,79161862067.46,126931596727.12,326878,Public,Listed,BENE.MI,2024,EUR,Large,Yes
+745,Sartorius AG,Germany,Germany,Central Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,80935721689.31,180428843492.72,189304,Private,Unlisted,,2024,EUR,Large,Yes
+746,MOL Group,Hungary,Hungary,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,341000783.99,725433440.39,574,Private,Unlisted,,2024,EUR,Medium,Yes
+747,Cementos Portland Valderrivas,Spain,Spain,Southern Europe,Construction/Industrials,Construction,General Contracting,152541271.75,287590954.0,1008,Private,Unlisted,,2024,EUR,Medium,Yes
+748,Aena S.M.E.,Spain,Spain,Southern Europe,Automotive/Transport,Logistics,Road Freight,219473813.03,268968936.57,712,Public,Listed,AENA.MC,2024,EUR,Medium,Yes
+749,Dr. Oetker,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Beverages,25793535770.18,20955691424.14,124957,Public,Listed,DROE.DE,2024,EUR,Large,Yes
+750,YIT Oyj,Finland,Finland,Northern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,605132863.1,958549293.19,2881,Private,Unlisted,,2024,EUR,Medium,Yes
+751,PZU S.A.,Poland,Poland,Central Europe,Financial Services,Asset Management,Asset Management,8910977681.69,168026335755.66,14410,Public,Unlisted,,2024,EUR,Large,Yes
+752,Korian Group,France,France,Western Europe,Healthcare/Pharma,Healthcare Services,Hospital Operator,11492285542.06,19577304482.91,33065,Public,Listed,KORI.PA,2024,EUR,Large,Yes
+753,Stora Enso Oyj,Finland,Finland,Northern Europe,Manufacturing,Chemicals,Specialty Chemicals,6288437176.68,10504698589.18,28507,Public,Unlisted,,2024,EUR,Large,Yes
+754,Petrolina Holdings,Cyprus,Cyprus,Southern Europe,Energy/Utilities,Gas Utilities,Gas Distribution,183428955.22,534023872.09,195,Public,Listed,PETR.EU,2024,EUR,Medium,Yes
+755,GFT Technologies,Germany,Germany,Central Europe,Technology,Semiconductors,Semiconductor Devices,799586944.58,1378370563.3,1922,Private,Unlisted,,2024,EUR,Medium,Yes
+756,Ercros S.A.,Spain,Spain,Southern Europe,Manufacturing,Metals & Mining,Steel,636762327.77,869404885.04,3140,Private,Unlisted,,2024,EUR,Medium,Yes
+757,Festo,Germany,Germany,Central Europe,Construction/Industrials,Aerospace & Defense,Defense,317849900.74,429977434.99,2168,Private,Unlisted,,2024,EUR,Medium,Yes
+758,Schneider Electric SE,France,France,Western Europe,Construction/Industrials,Aerospace & Defense,Defense,2300528767.91,2629613180.21,13212,Public,Listed,SCHN.PA,2024,EUR,Large,Yes
+759,Clarins Group,France,France,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,192084489.14,145823457.82,1158,Private,Unlisted,,2024,EUR,Medium,Yes
+760,Adidas AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Household Products,Household Goods,13213690012.01,15847468925.6,92421,Public,Listed,ADID.DE,2024,EUR,Large,Yes
+761,Rabobank,Netherlands,Netherlands,Western Europe,Financial Services,Asset Management,Asset Management,3597699350.01,56164118735.79,11610,Public,Listed,RABO.AS,2024,EUR,Large,Yes
+762,Viessmann Group,Germany,Germany,Central Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,1456105925.72,2437925021.57,5499,Private,Unlisted,,2024,EUR,Medium,Yes
+763,Agrofert,Czechia,Czechia,Central Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,43767999758.67,39755769651.46,173514,Private,Unlisted,,2024,EUR,Large,Yes
+764,Cenergy Holdings,Greece,Greece,Southern Europe,Manufacturing,Paper & Packaging,Paper Products,3923439246.53,5666926641.76,11705,Public,Listed,CENE.AT,2024,EUR,Large,Yes
+765,Tendam (Cortefiel),Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,52669989075.41,51763131973.43,381642,Public,Listed,TEND.MC,2024,EUR,Large,Yes
+766,Grigeo AB,Lithuania,Lithuania,Northern Europe,Manufacturing,Electrical Equipment,Industrial Electrical,79028111.29,149822436.26,242,Public,Listed,GRIG.EU,2024,EUR,Small,No
+767,Salling Group,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,73428256.33,116014271.61,490,Private,Unlisted,,2024,EUR,Small,No
+768,Nova (United Group Greece),Greece,Greece,Southern Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,482033174.47,1259746135.1,1693,Public,Listed,NOVA.AT,2024,EUR,Medium,Yes
+769,NH Hotel Group,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,71762635.43,57606873.88,416,Private,Unlisted,,2024,EUR,Small,No
+770,Qiagen N.V.,Germany,Germany,Central Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,8633404057.16,11045350651.27,30246,Public,Listed,QIAG.DE,2024,EUR,Large,Yes
+771,Miele,Germany,Germany,Central Europe,Consumer Goods/Retail,E-Commerce,Online Retail,4473562515.04,4622253764.25,28079,Private,Unlisted,,2024,EUR,Large,Yes
+772,Vattenfall AB,Sweden,Sweden,Northern Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,2216074233.89,4759373610.43,2801,Private,Unlisted,,2024,EUR,Large,Yes
+773,Hello Fresh SE,Germany,Germany,Central Europe,Consumer Goods/Retail,Personal Products,Cosmetics,3484447624.73,5243364552.59,18948,Public,Listed,HELL.DE,2024,EUR,Large,Yes
+774,Ryvu Therapeutics,Poland,Poland,Central Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,648538054.68,700383827.21,2672,Private,Unlisted,,2024,EUR,Medium,Yes
+775,K+S AG,Germany,Germany,Central Europe,Manufacturing,Metals & Mining,Non-Ferrous Metals,4688800022.99,9712024679.6,16421,Private,Unlisted,,2024,EUR,Large,Yes
+776,Uniper SE,Germany,Germany,Central Europe,Energy/Utilities,Electric Utilities,Power Generation,16016002.61,64838170.45,20,Public,Listed,UNIP.DE,2024,EUR,Small,No
+777,SRV Yhtiöt,Finland,Finland,Northern Europe,Construction/Industrials,Machinery,Agricultural Machinery,2868368784.62,5558765451.94,17765,Public,Unlisted,,2024,EUR,Large,Yes
+778,Pierer Mobility,Austria,Austria,Central Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,5387159317.5,6804564915.9,24566,Public,Listed,PIER.VI,2024,EUR,Large,Yes
+779,Eurazeo SE,France,France,Western Europe,Financial Services,Banking,Retail Banking,36480452773.1,509923266219.31,116856,Public,Listed,EURA.PA,2024,EUR,Large,Yes
+780,Spie SA,France,France,Western Europe,Construction/Industrials,Construction,General Contracting,4613986467.19,5041811937.38,31604,Public,Listed,SPIE.PA,2024,EUR,Large,Yes
+781,William Demant Foundation,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,3582499426.43,7607682015.1,15410,Public,Listed,WILL.CO,2024,EUR,Large,Yes
+782,Ontex Group,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,79194560791.17,60792675121.66,285879,Public,Unlisted,,2024,EUR,Large,Yes
+783,DO & CO AG,Austria,Austria,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,221075319.78,305152950.58,1968,Private,Unlisted,,2024,EUR,Medium,Yes
+784,OMV AG,Austria,Austria,Central Europe,Energy/Utilities,Electric Utilities,Power Generation,282323370.71,1090109488.6,458,Public,Listed,OMVA.VI,2024,EUR,Medium,Yes
+785,BE Semiconductor Industries,Netherlands,Netherlands,Western Europe,Technology,IT Services,Managed Services,6197408458.36,8460674520.82,17410,Public,Listed,BESE.AS,2024,EUR,Large,Yes
+786,Energa S.A.,Poland,Poland,Central Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,1917592088.84,7484256000.58,3583,Public,Unlisted,,2024,EUR,Large,Yes
+787,Repsol S.A.,Spain,Spain,Southern Europe,Energy/Utilities,Renewable Energy,Solar,1962579337.02,5528852298.25,2201,Private,Unlisted,,2024,EUR,Large,Yes
+788,If P&C Insurance,Finland,Finland,Northern Europe,Financial Services,Banking,Investment Banking,1451227317.83,26314781269.04,4890,Public,Listed,IFPC.HE,2024,EUR,Medium,Yes
+789,Henkel AG & Co. KGaA,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,72120103896.75,54265867684.03,241620,Public,Listed,HENK.DE,2024,EUR,Large,Yes
+790,Lego Group,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,196826319.73,228284023.45,1762,Public,Listed,LEGO.CO,2024,EUR,Medium,Yes
+791,Action Retail (AS Watson NL),Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,443397722.84,638114425.06,2958,Public,Listed,ACTI.AS,2024,EUR,Medium,Yes
+792,OCI N.V.,Netherlands,Netherlands,Western Europe,Manufacturing,Industrial Gases,Industrial Gases,147783993.14,290648502.48,550,Private,Unlisted,,2024,EUR,Small,No
+793,Pingo Doce,Portugal,Portugal,Southern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,82372260834.04,115560633514.35,735486,Public,Listed,PING.LS,2024,EUR,Large,Yes
+794,Aldi Süd,Germany,Germany,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,30587540560.83,25627343416.72,272652,Public,Listed,ALDI.DE,2024,EUR,Large,Yes
+795,Versace,Italy,Italy,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,158713936.35,171457744.96,571,Private,Unlisted,,2024,EUR,Medium,Yes
+796,Kering,France,France,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,445536972.54,342690241.99,3518,Public,Listed,KERI.PA,2024,EUR,Medium,Yes
+797,Semperit AG,Austria,Austria,Central Europe,Manufacturing,Chemicals,Commodity Chemicals,82307343531.83,179170717703.39,342757,Public,Listed,SEMP.VI,2024,EUR,Large,Yes
+798,RTL Group,Luxembourg,Luxembourg,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,410450125.35,445974499.13,2296,Private,Unlisted,,2024,EUR,Medium,Yes
+799,Freixenet,Spain,Spain,Southern Europe,Consumer Goods/Retail,Household Products,Household Goods,534256060.53,619747905.46,2342,Public,Listed,FREI.MC,2024,EUR,Medium,Yes
+800,Ciments Calcia,France,France,Western Europe,Construction/Industrials,Machinery,Industrial Machinery,20439456575.72,42502719805.65,115229,Public,Listed,CIME.PA,2024,EUR,Large,Yes
+801,Isra Vision,Germany,Germany,Central Europe,Technology,Internet,Digital Media,59150556949.07,108700528801.95,175902,Public,Listed,ISRA.DE,2024,EUR,Large,Yes
+802,Vodafone Portugal,Portugal,Portugal,Southern Europe,Telecommunications,Telecom Equipment,Network Equipment,112183485.63,240541101.51,334,Private,Unlisted,,2024,EUR,Small,No
+803,Inditex,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,38212359.1,42420569.53,329,Private,Unlisted,,2024,EUR,Small,No
+804,Globalia,Spain,Spain,Southern Europe,Automotive/Transport,Automotive OEM,Passenger Vehicles,8126506444.79,12371183658.67,20951,Public,Listed,GLOB.MC,2024,EUR,Large,Yes
+805,Ferring Pharmaceuticals,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,1309620638.29,1603166923.41,5501,Private,Unlisted,,2024,EUR,Medium,Yes
+806,HRVATSKI TELEKOM,Croatia,Croatia,Southern Europe,Telecommunications,Satellite,Satellite Services,11049556717.9,21706800202.07,29300,Public,Listed,HRVA.EU,2024,EUR,Large,Yes
+807,TDC Group,Denmark,Denmark,Northern Europe,Telecommunications,Integrated Telecom,Integrated Telecom,420870520.92,1105471689.81,1262,Private,Unlisted,,2024,EUR,Medium,Yes
+808,Nexi Portugal (SIBS),Portugal,Portugal,Southern Europe,Technology,IT Services,Managed Services,1122301363.11,2156180057.15,1608,Public,Listed,NEXI.LS,2024,EUR,Medium,Yes
+809,Sligro Food Group,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Household Products,Household Goods,1089852038.22,1961260502.94,5209,Public,Listed,SLIG.AS,2024,EUR,Medium,Yes
+810,Ariston Holding,Italy,Italy,Southern Europe,Construction/Industrials,Aerospace & Defense,Defense,24304542496.44,36743453095.64,123169,Public,Listed,ARIS.MI,2024,EUR,Large,Yes
+811,Erbud S.A.,Poland,Poland,Central Europe,Construction/Industrials,Construction,Civil Engineering,10704151670.44,15348896533.78,51788,Public,Listed,ERBU.WA,2024,EUR,Large,Yes
+812,Sandvik AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Professional Services,Facility Services,19016870837.25,25959496169.14,94889,Public,Listed,SAND.ST,2024,EUR,Large,Yes
+813,Genmab A/S,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Healthcare Services,Hospital Operator,173295798.72,183577072.33,868,Private,Unlisted,,2024,EUR,Medium,Yes
+814,Pesa Bydgoszcz,Poland,Poland,Central Europe,Automotive/Transport,Airlines,Cargo Airline,1305866205.44,3041026932.01,3264,Private,Unlisted,,2024,EUR,Medium,Yes
+815,Bechtle AG,Germany,Germany,Central Europe,Technology,IT Services,IT Consulting,3988059179.95,4528742229.63,11908,Public,Listed,BECH.DE,2024,EUR,Large,Yes
+816,FrieslandCampina,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,767918194.03,1219354237.25,4129,Public,Listed,FRIE.AS,2024,EUR,Medium,Yes
+817,El Corte Inglés,Spain,Spain,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,14905883204.46,11974253368.22,66543,Public,Listed,ELCO.MC,2024,EUR,Large,Yes
+818,Logista,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,401428925.86,353510523.51,2213,Public,Listed,LOGI.MC,2024,EUR,Medium,Yes
+819,GN Group,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,14782385171.12,30593421702.43,39582,Public,Listed,GNGR.CO,2024,EUR,Large,Yes
+820,Slovak Telekom,Slovakia,Slovakia,Central Europe,Telecommunications,Satellite,Satellite Services,1675455715.23,5074857917.06,7293,Private,Unlisted,,2024,EUR,Large,Yes
+821,Atos SE,France,France,Western Europe,Technology,Internet,Digital Media,28477190581.65,52296632952.19,58783,Public,Listed,ATOS.PA,2024,EUR,Large,Yes
+822,Banco BPM,Italy,Italy,Southern Europe,Financial Services,Banking,Retail Banking,939764238.4,16140585836.41,1775,Private,Unlisted,,2024,EUR,Medium,Yes
+823,Hawkers Co,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food & Beverage,Packaged Food,132685170.12,103261168.56,480,Private,Unlisted,,2024,EUR,Small,No
+824,Akuo Energy,France,France,Western Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,558873236.19,1786507662.66,994,Private,Unlisted,,2024,EUR,Medium,Yes
+825,Wieland-Werke AG,Germany,Germany,Central Europe,Manufacturing,Chemicals,Specialty Chemicals,4775582485.3,5425154699.71,22893,Public,Listed,WIEL.DE,2024,EUR,Large,Yes
+826,Sephora (LVMH),France,France,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,9019429554.84,14100399130.78,52609,Public,Listed,SEPH.PA,2024,EUR,Large,Yes
+827,ČSOB,Czechia,Czechia,Central Europe,Financial Services,Capital Markets,Exchange / Clearing,59278256369.36,967709851411.93,92407,Public,Unlisted,,2024,EUR,Large,Yes
+828,Axfood,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,21148619105.16,27107431356.81,156828,Public,Listed,AXFO.ST,2024,EUR,Large,Yes
+829,Kärcher,Germany,Germany,Central Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,2185010387.09,4804709120.39,12897,Public,Listed,KÄRC.DE,2024,EUR,Large,Yes
+830,Kinepolis Group,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Food Retail,Supermarkets,505317793.76,451301767.75,2702,Public,Listed,KINE.BR,2024,EUR,Medium,Yes
+831,Cloetta AB,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,2243014856.64,2738496444.99,12552,Public,Listed,CLOE.ST,2024,EUR,Large,Yes
+832,Vestas Wind Systems,Denmark,Denmark,Northern Europe,Energy/Utilities,Renewable Energy,Solar,464804043.69,1156604155.06,310,Public,Listed,VEST.CO,2024,EUR,Medium,Yes
+833,NKT A/S,Denmark,Denmark,Northern Europe,Construction/Industrials,Machinery,Industrial Machinery,204969380.94,294949796.55,1381,Public,Listed,NKTA.CO,2024,EUR,Medium,Yes
+834,Wirtualna Polska Holding,Poland,Poland,Central Europe,Technology,Software,Enterprise Software,10509743929.11,13768911806.93,14889,Public,Listed,WIRT.WA,2024,EUR,Large,Yes
+835,TotalEnergies SE,France,France,Western Europe,Energy/Utilities,Renewable Energy,Solar,1561702449.36,5770205187.82,1161,Private,Unlisted,,2024,EUR,Large,Yes
+836,Heineken N.V.,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,64556686903.74,61297729799.34,443212,Public,Listed,HEIN.AS,2024,EUR,Large,Yes
+837,Carl Zeiss AG,Germany,Germany,Central Europe,Technology,Software,Enterprise Software,600658124.77,1112644405.36,1482,Private,Unlisted,,2024,EUR,Medium,Yes
+838,Immobel NV,Belgium,Belgium,Western Europe,Construction/Industrials,Machinery,Industrial Machinery,786359451.0,803522891.78,2398,Private,Unlisted,,2024,EUR,Medium,Yes
+839,Orange Belgium,Belgium,Belgium,Western Europe,Telecommunications,Telecom Infrastructure,Towers & Fiber,713530680.47,1999336385.97,2397,Public,Listed,ORAN.BR,2024,EUR,Medium,Yes
+840,Arcadis N.V.,Netherlands,Netherlands,Western Europe,Construction/Industrials,Machinery,Industrial Machinery,12174962109.4,16111762270.22,57513,Public,Listed,ARCA.AS,2024,EUR,Large,Yes
+841,Mabion,Poland,Poland,Central Europe,Healthcare/Pharma,Medical Devices,Medical Devices,1062281141.49,2313295134.61,2864,Public,Listed,MABI.WA,2024,EUR,Medium,Yes
+842,ICA Gruppen,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,64771949720.76,108353628472.53,552645,Public,Listed,ICAG.ST,2024,EUR,Large,Yes
+843,Brose Fahrzeugteile,Germany,Germany,Central Europe,Automotive/Transport,Logistics,Postal & Parcel,1212004732.73,2659503439.8,5526,Public,Listed,BROS.DE,2024,EUR,Medium,Yes
+844,TAP Air Portugal,Portugal,Portugal,Southern Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,14396534130.27,34610503076.63,61289,Public,Listed,TAPA.LS,2024,EUR,Large,Yes
+845,Fazer Group,Finland,Finland,Northern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,6811786483.33,7006895362.58,51997,Public,Listed,FAZE.HE,2024,EUR,Large,Yes
+846,eMAG,Romania,Romania,Eastern Europe,Consumer Goods/Retail,Media & Entertainment,Media,188011784.44,165834273.85,923,Private,Unlisted,,2024,EUR,Medium,Yes
+847,Kaufman & Broad,France,France,Western Europe,Construction/Industrials,Machinery,Industrial Machinery,41723928058.36,82005002825.84,131294,Public,Listed,KAUF.PA,2024,EUR,Large,Yes
+848,Salini Costruttori,Italy,Italy,Southern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,17090790820.36,30150620244.7,93543,Public,Unlisted,,2024,EUR,Large,Yes
+849,OHLA,Spain,Spain,Southern Europe,Construction/Industrials,Building Products,Building Materials,55093219.72,82878955.76,182,Private,Unlisted,,2024,EUR,Small,No
+850,Graphisoft,Hungary,Hungary,Central Europe,Technology,IT Services,Managed Services,18615757.82,20903954.99,37,Private,Unlisted,,2024,EUR,Small,No
+851,Takeaway.com,Netherlands,Netherlands,Western Europe,Consumer Goods/Retail,Food Retail,Discount Retail,9995702096.24,15611978148.77,46951,Public,Listed,TAKE.AS,2024,EUR,Large,Yes
+852,Talgo S.A.,Spain,Spain,Southern Europe,Automotive/Transport,Logistics,Postal & Parcel,68352765873.48,108127707059.47,174609,Public,Listed,TALG.MC,2024,EUR,Large,Yes
+853,Bitdefender,Romania,Romania,Eastern Europe,Technology,Hardware,Electronic Components,544244720.76,858450874.55,1558,Private,Unlisted,,2024,EUR,Medium,Yes
+854,Banco BPI,Portugal,Portugal,Southern Europe,Financial Services,Banking,Retail Banking,353790439.27,5812899737.52,827,Private,Unlisted,,2024,EUR,Medium,Yes
+855,Nexi S.p.A.,Italy,Italy,Southern Europe,Technology,Software,Enterprise Software,1474025751.18,1222657472.84,3580,Private,Unlisted,,2024,EUR,Medium,Yes
+856,Wolters Kluwer,Netherlands,Netherlands,Western Europe,Technology,IT Services,Managed Services,13286499716.49,21922674109.55,32405,Public,Listed,WOLT.AS,2024,EUR,Large,Yes
+857,Polestar,Sweden,Sweden,Northern Europe,Automotive/Transport,Shipping,Container Shipping,19691988857.82,40818653542.96,72536,Public,Listed,POLE.ST,2024,EUR,Large,Yes
+858,Assa Abloy,Sweden,Sweden,Northern Europe,Construction/Industrials,Building Products,Building Materials,1566547939.02,1636859977.3,8951,Private,Unlisted,,2024,EUR,Large,Yes
+859,Criteo S.A.,France,France,Western Europe,Technology,Software,Enterprise Software,790042255.2,970625204.72,1138,Public,Listed,CRIT.PA,2024,EUR,Medium,Yes
+860,Mota-Engil,Portugal,Portugal,Southern Europe,Construction/Industrials,Real Estate,Residential Real Estate,11769661893.77,16273548585.19,58046,Public,Listed,MOTA.LS,2024,EUR,Large,Yes
+861,TenneT Holding,Netherlands,Netherlands,Western Europe,Energy/Utilities,Water Utilities,Water & Waste,472166188.96,883685233.98,252,Public,Listed,TENN.AS,2024,EUR,Medium,Yes
+862,Fincantieri S.p.A.,Italy,Italy,Southern Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,89424029889.48,97181808899.89,439725,Private,Unlisted,,2024,EUR,Large,Yes
+863,Aroundtown SA,Germany,Germany,Central Europe,Construction/Industrials,Professional Services,Facility Services,546787172.98,1101807316.38,2405,Private,Unlisted,,2024,EUR,Medium,Yes
+864,Dürr AG,Germany,Germany,Central Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,1128036923.31,2020424017.44,3666,Public,Listed,DÜRR.DE,2024,EUR,Medium,Yes
+865,Italmobiliare,Italy,Italy,Southern Europe,Financial Services,Banking,Retail Banking,4279131321.99,60191914817.56,6748,Public,Listed,ITAL.MI,2024,EUR,Large,Yes
+866,Vopak Energy,Netherlands,Netherlands,Western Europe,Energy/Utilities,Renewable Energy,Solar,579845048.43,1507209475.22,902,Public,Listed,VOPA.AS,2024,EUR,Medium,Yes
+867,Max Mara Fashion Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,20922285612.03,23710954752.31,150140,Private,Unlisted,,2024,EUR,Large,Yes
+868,Alten SA,France,France,Western Europe,Technology,Internet,Digital Media,278067406.4,370930507.29,775,Private,Unlisted,,2024,EUR,Medium,Yes
+869,Tenaris S.A.,Luxembourg,Luxembourg,Western Europe,Manufacturing,Metals & Mining,Steel,5081013175.52,8196922515.03,11616,Public,Unlisted,,2024,EUR,Large,Yes
+870,CTT Correios de Portugal,Portugal,Portugal,Southern Europe,Automotive/Transport,Airport Operator,Airport Operator,168086039.75,369998345.25,510,Public,Listed,CTTC.LS,2024,EUR,Medium,Yes
+871,Bank Pekao,Poland,Poland,Central Europe,Financial Services,Asset Management,Asset Management,1152998103.45,10915185428.93,2302,Private,Unlisted,,2024,EUR,Medium,Yes
+872,Autogrill S.p.A.,Italy,Italy,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,175358296.87,141986877.2,1420,Public,Listed,AUTO.MI,2024,EUR,Medium,Yes
+873,Stihl Holding AG,Germany,Germany,Central Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,5562487098.63,11578076842.53,33170,Public,Listed,STIH.DE,2024,EUR,Large,Yes
+874,Kofola,Czechia,Czechia,Central Europe,Consumer Goods/Retail,Food & Beverage,Beverages,44913285.62,66286925.6,244,Private,Unlisted,,2024,EUR,Small,No
+875,Orpea SA,France,France,Western Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,67707888931.38,70560590031.02,225182,Public,Listed,ORPE.PA,2024,EUR,Large,Yes
+876,Lassila & Tikanoja,Finland,Finland,Northern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,38824122.28,82871011.27,271,Private,Unlisted,,2024,EUR,Small,No
+877,Dräger (Drägerwerk AG),Germany,Germany,Central Europe,Healthcare/Pharma,Medical Devices,Medical Devices,31938224602.66,72285018495.59,161190,Public,Listed,DRÄG.DE,2024,EUR,Large,Yes
+878,Albioma SA,France,France,Western Europe,Energy/Utilities,Electric Utilities,Transmission & Distribution,19867075885.64,63849665589.33,14387,Private,Unlisted,,2024,EUR,Large,Yes
+879,Soitec SA,France,France,Western Europe,Technology,Semiconductors,Semiconductor Devices,3929020148.18,3378594941.54,7168,Public,Listed,SOIT.PA,2024,EUR,Large,Yes
+880,Valeo SA,France,France,Western Europe,Automotive/Transport,Automotive OEM,Passenger Vehicles,58119506.55,78226170.39,209,Private,Unlisted,,2024,EUR,Small,No
+881,Shell plc,Netherlands,Netherlands,Western Europe,Energy/Utilities,Renewable Energy,Solar,9206218912.46,17838505635.0,5492,Public,Listed,SHEL.AS,2024,EUR,Large,Yes
+882,Besix Group,Belgium,Belgium,Western Europe,Construction/Industrials,Professional Services,Facility Services,92487844.37,180318389.22,452,Private,Unlisted,,2024,EUR,Small,No
+883,Salini Impregilo,Italy,Italy,Southern Europe,Construction/Industrials,Aerospace & Defense,Defense,17876555427.49,37457898642.35,109935,Public,Listed,SALI.MI,2024,EUR,Large,Yes
+884,Sanoma Oyj,Finland,Finland,Northern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,23695521.14,41323293.8,145,Public,Listed,SANO.HE,2024,EUR,Small,No
+885,BBVA,Spain,Spain,Southern Europe,Financial Services,Asset Management,Asset Management,434493027.35,4370257217.74,1449,Public,Listed,BBVA.MC,2024,EUR,Medium,Yes
+886,JCDecaux SA,France,France,Western Europe,Consumer Goods/Retail,Media & Entertainment,Media,9905418298.31,7340160695.84,33110,Public,Listed,JCDE.PA,2024,EUR,Large,Yes
+887,Hellenic Bank,Cyprus,Cyprus,Southern Europe,Financial Services,Insurance,P&C Insurance,38160205.04,526284536.07,72,Private,Unlisted,,2024,EUR,Small,No
+888,FBD Holdings,Ireland,Ireland,Western Europe,Financial Services,Banking,Retail Banking,337359707.09,3584270542.45,1098,Public,Listed,FBDH.IR,2024,EUR,Medium,Yes
+889,Riu Hotels,Spain,Spain,Southern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,16016411.34,26515569.75,74,Private,Unlisted,,2024,EUR,Small,No
+890,Lagardère SA,France,France,Western Europe,Consumer Goods/Retail,Media & Entertainment,Media,1133734166.14,1593726570.88,3814,Private,Unlisted,,2024,EUR,Medium,Yes
+891,Müller Holding,Germany,Germany,Central Europe,Consumer Goods/Retail,Food Retail,Supermarkets,1049569214.04,1716765075.62,7071,Private,Unlisted,,2024,EUR,Medium,Yes
+892,ZF Friedrichshafen AG,Germany,Germany,Central Europe,Automotive/Transport,Airport Operator,Airport Operator,125315448.44,197916523.37,672,Private,Unlisted,,2024,EUR,Small,No
+893,Dassault Aviation,France,France,Western Europe,Construction/Industrials,Professional Services,Facility Services,25928111248.53,55850849438.17,99419,Public,Listed,DASS.PA,2024,EUR,Large,Yes
+894,Immofinanz AG,Austria,Austria,Central Europe,Construction/Industrials,Real Estate,Residential Real Estate,5365019742.64,6173023650.44,35408,Public,Listed,IMMO.VI,2024,EUR,Large,Yes
+895,Fraport AG,Germany,Germany,Central Europe,Automotive/Transport,Airlines,Cargo Airline,6783503876.72,10231063379.79,28825,Private,Unlisted,,2024,EUR,Large,Yes
+896,Dürr Systems,Germany,Germany,Central Europe,Construction/Industrials,Professional Services,Facility Services,50106009782.0,52091099076.63,291561,Public,Listed,DÜRR.DE,2024,EUR,Large,Yes
+897,Enagás S.A.,Spain,Spain,Southern Europe,Energy/Utilities,Gas Utilities,Gas Distribution,3656310288.85,14544466399.9,3601,Private,Unlisted,,2024,EUR,Large,Yes
+898,Bank of Valletta,Malta,Malta,Southern Europe,Financial Services,Banking,Investment Banking,512695136.14,10069344838.26,1861,Public,Listed,BANK.EU,2024,EUR,Medium,Yes
+899,Bavarian Nordic,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Life Sciences Tools,Lab Instruments,226134255.89,447093829.47,980,Private,Unlisted,,2024,EUR,Medium,Yes
+900,Ateme,France,France,Western Europe,Technology,Semiconductors,Semiconductor Devices,1229091124.18,1938529281.15,3498,Private,Unlisted,,2024,EUR,Medium,Yes
+901,PKO Bank Polski,Poland,Poland,Central Europe,Financial Services,Asset Management,Asset Management,29998921.63,593031696.4,82,Private,Unlisted,,2024,EUR,Small,No
+902,National Bank of Greece,Greece,Greece,Southern Europe,Financial Services,Asset Management,Asset Management,53182982843.9,1000360948929.19,130338,Public,Listed,NATI.AT,2024,EUR,Large,Yes
+903,Jenoptik AG,Germany,Germany,Central Europe,Technology,Software,Consumer Software,1516380338.67,1642964282.63,3105,Public,Listed,JENO.DE,2024,EUR,Large,Yes
+904,Banco Sabadell,Spain,Spain,Southern Europe,Financial Services,Banking,Retail Banking,642270269.53,12808643556.07,1959,Public,Listed,BANC.MC,2024,EUR,Medium,Yes
+905,Acea S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Renewable Energy,Wind,57754994.0,224179681.04,88,Private,Unlisted,,2024,EUR,Small,No
+906,Nordea (Denmark ops),Denmark,Denmark,Northern Europe,Financial Services,Diversified Financials,Holding Company,796989615.03,11636782881.96,2149,Public,Listed,NORD.CO,2024,EUR,Medium,Yes
+907,SKF Group,Sweden,Sweden,Northern Europe,Construction/Industrials,Engineering Services,Engineering & Consulting,5015469894.16,8721728287.04,30436,Private,Unlisted,,2024,EUR,Large,Yes
+908,Prisa Group,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,426076788.71,312158040.31,3834,Public,Listed,PRIS.MC,2024,EUR,Medium,Yes
+909,H&M Hennes & Mauritz,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Household Products,Household Goods,24545499181.81,27142395755.64,191053,Public,Listed,HMHE.ST,2024,EUR,Large,Yes
+910,NXP Semiconductors,Netherlands,Netherlands,Western Europe,Technology,Internet,Digital Media,12313749347.93,15237829564.75,15128,Public,Listed,NXPS.AS,2024,EUR,Large,Yes
+911,STMicroelectronics N.V.,France,France,Western Europe,Technology,IT Services,Managed Services,231476256.35,441623495.68,574,Private,Unlisted,,2024,EUR,Medium,Yes
+912,Amadeus IT Group,Spain,Spain,Southern Europe,Technology,Hardware,Electronic Components,5369018032.23,8530221658.77,16080,Public,Listed,AMAD.MC,2024,EUR,Large,Yes
+913,Digi Communications,Romania,Romania,Eastern Europe,Telecommunications,Wireless Telecom,Mobile Operator,20438749835.57,30877308995.94,67281,Private,Unlisted,,2024,EUR,Large,Yes
+914,Electrolux AB,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Apparel & Luxury,Apparel,2996062679.05,5173865420.82,25257,Public,Listed,ELEC.ST,2024,EUR,Large,Yes
+915,NLB Group,Slovenia,Slovenia,Southern Europe,Financial Services,Banking,Investment Banking,33570772.77,442411502.97,75,Private,Unlisted,,2024,EUR,Small,No
+916,Heidelberg Materials AG,Germany,Germany,Central Europe,Construction/Industrials,Real Estate,Commercial Real Estate,2374452581.88,3181126376.39,10584,Private,Unlisted,,2024,EUR,Large,Yes
+917,RELX Group,Netherlands,Netherlands,Western Europe,Technology,Internet,Digital Media,1107660024.39,1188164923.27,3034,Public,Listed,RELX.AS,2024,EUR,Medium,Yes
+918,Klépierre SA,France,France,Western Europe,Construction/Industrials,Construction,Civil Engineering,1084921969.64,1086485232.59,6277,Private,Unlisted,,2024,EUR,Medium,Yes
+919,CIE Automotive,Spain,Spain,Southern Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,21355541995.19,37955950438.79,71801,Private,Unlisted,,2024,EUR,Large,Yes
+920,SEAT S.A.,Spain,Spain,Southern Europe,Automotive/Transport,Logistics,Postal & Parcel,7103898255.21,14792985470.38,18744,Public,Listed,SEAT.MC,2024,EUR,Large,Yes
+921,Kofola ČeskoSlovensko,Czechia,Czechia,Central Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,1222490296.28,1699696254.61,4909,Private,Unlisted,,2024,EUR,Medium,Yes
+922,Bure Equity,Sweden,Sweden,Northern Europe,Financial Services,Diversified Financials,Holding Company,9007719689.89,95241613192.65,18654,Public,Listed,BURE.ST,2024,EUR,Large,Yes
+923,Finnair Oyj,Finland,Finland,Northern Europe,Automotive/Transport,Auto Components,Tier-1 Supplier,15649187.09,33152133.58,48,Private,Unlisted,,2024,EUR,Small,No
+924,CRH plc,Ireland,Ireland,Western Europe,Construction/Industrials,Construction,Civil Engineering,1552316048.58,3280209114.57,4852,Public,Listed,CRHP.IR,2024,EUR,Large,Yes
+925,Delhaize Belgium,Belgium,Belgium,Western Europe,Consumer Goods/Retail,Food & Beverage,Beverages,627031159.95,970312324.85,5486,Private,Unlisted,,2024,EUR,Medium,Yes
+926,BearingPoint,Netherlands,Netherlands,Western Europe,Technology,Internet,Digital Media,31760795.5,49718485.59,52,Private,Unlisted,,2024,EUR,Small,No
+927,Van Oord,Netherlands,Netherlands,Western Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,739811432.09,880320797.46,2537,Public,Listed,VANO.AS,2024,EUR,Medium,Yes
+928,Mediaset (MFE),Italy,Italy,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,1722543367.64,1478058390.16,12467,Public,Listed,MEDI.MI,2024,EUR,Large,Yes
+929,Lukoil Bulgaria,Bulgaria,Bulgaria,Eastern Europe,Energy/Utilities,Renewable Energy,Solar,51056766324.28,127476390039.44,98280,Public,Listed,LUKO.EU,2024,EUR,Large,Yes
+930,Ducati Motor Holding,Italy,Italy,Southern Europe,Automotive/Transport,Logistics,Postal & Parcel,191506959.12,321651246.03,508,Public,Listed,DUCA.MI,2024,EUR,Medium,Yes
+931,Hufvudstaden AB,Sweden,Sweden,Northern Europe,Construction/Industrials,Real Estate,Commercial Real Estate,249841255.27,473133548.01,1436,Public,Listed,HUFV.ST,2024,EUR,Medium,Yes
+932,Altran Technologies,France,France,Western Europe,Technology,Software,Consumer Software,4179458538.18,7470263636.44,6845,Public,Listed,ALTR.PA,2024,EUR,Large,Yes
+933,Intermarché (Les Mousquetaires),France,France,Western Europe,Consumer Goods/Retail,E-Commerce,Online Retail,4938946103.75,7826229160.3,17130,Public,Listed,INTE.PA,2024,EUR,Large,Yes
+934,B. Braun Melsungen,Germany,Germany,Central Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,27842505.17,32849052.64,88,Private,Unlisted,,2024,EUR,Small,No
+935,Santander Bank Polska,Poland,Poland,Central Europe,Financial Services,Capital Markets,Exchange / Clearing,359331416.93,3371028184.14,1423,Public,Listed,SANT.WA,2024,EUR,Medium,Yes
+936,Südzucker AG,Germany,Germany,Central Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,164392134.15,234380527.93,1205,Public,Listed,SÜDZ.DE,2024,EUR,Medium,Yes
+937,Swedbank,Sweden,Sweden,Northern Europe,Financial Services,Banking,Investment Banking,227073941.35,1973094269.83,847,Private,Unlisted,,2024,EUR,Medium,Yes
+938,Covea,France,France,Western Europe,Financial Services,Banking,Investment Banking,21054431497.44,413496001497.36,34312,Public,Listed,COVE.PA,2024,EUR,Large,Yes
+939,Getinge AB,Sweden,Sweden,Northern Europe,Healthcare/Pharma,Pharmaceuticals,Generic Pharma,161980253.7,245563953.34,832,Private,Unlisted,,2024,EUR,Medium,Yes
+940,Commerzbank AG,Germany,Germany,Central Europe,Financial Services,Insurance,Reinsurance,55348136847.09,1067262013634.43,92319,Private,Unlisted,,2024,EUR,Large,Yes
+941,Línea Directa Aseguradora,Spain,Spain,Southern Europe,Financial Services,Banking,Commercial Banking,562006533.33,6459367031.41,1981,Private,Unlisted,,2024,EUR,Medium,Yes
+942,Ten Square Games,Poland,Poland,Central Europe,Technology,Hardware,Electronic Components,285993487.08,403593691.15,532,Private,Unlisted,,2024,EUR,Medium,Yes
+943,Flutter Entertainment,Ireland,Ireland,Western Europe,Consumer Goods/Retail,Food & Beverage,Alcoholic Beverages,239389890.99,404411587.95,1866,Public,Listed,FLUT.IR,2024,EUR,Medium,Yes
+944,Rhön-Klinikum,Germany,Germany,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,290215186.86,307050427.26,976,Public,Listed,RHÖN.DE,2024,EUR,Medium,Yes
+945,E.ON SE,Germany,Germany,Central Europe,Energy/Utilities,Renewable Energy,Wind,6486009454.38,24682813022.72,4911,Public,Listed,EONS.DE,2024,EUR,Large,Yes
+946,Chr. Hansen Holding,Denmark,Denmark,Northern Europe,Healthcare/Pharma,Pharmaceuticals,Branded Pharma,94846834943.42,101825660965.26,253959,Public,Listed,CHRH.CO,2024,EUR,Large,Yes
+947,Bertelsmann SE,Germany,Germany,Central Europe,Consumer Goods/Retail,Food Retail,Supermarkets,4659526700.64,3454780385.3,38870,Public,Listed,BERT.DE,2024,EUR,Large,Yes
+948,CCC S.A.,Poland,Poland,Central Europe,Consumer Goods/Retail,Food Retail,Supermarkets,4239281643.46,3522872353.34,24993,Public,Listed,CCCS.WA,2024,EUR,Large,Yes
+949,Dialog Semiconductor,Germany,Germany,Central Europe,Technology,Semiconductors,Semiconductor Devices,53911978.76,67871938.31,152,Public,Listed,DIAL.DE,2024,EUR,Small,No
+950,Benefit Systems,Poland,Poland,Central Europe,Consumer Goods/Retail,Food & Beverage,Beverages,386902060.03,279683440.53,3267,Public,Listed,BENE.WA,2024,EUR,Medium,Yes
+951,Masterplast Nyrt.,Hungary,Hungary,Central Europe,Manufacturing,Metals & Mining,Non-Ferrous Metals,2536988857.62,2821273345.6,11173,Public,Listed,MAST.BU,2024,EUR,Large,Yes
+952,BMW AG,Germany,Germany,Central Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,1996637173.53,3205727692.33,8425,Public,Listed,BMWA.DE,2024,EUR,Large,Yes
+953,Deutsche Telekom AG,Germany,Germany,Central Europe,Telecommunications,Wireless Telecom,Mobile Operator,435658492.16,1361926771.5,1312,Private,Unlisted,,2024,EUR,Medium,Yes
+954,CA Immo,Austria,Austria,Central Europe,Construction/Industrials,Building Products,Building Materials,78641930.2,108661811.21,545,Private,Unlisted,,2024,EUR,Small,No
+955,Kion Group AG,Germany,Germany,Central Europe,Construction/Industrials,Construction,Civil Engineering,2188524892.51,4243757723.07,12986,Public,Listed,KION.DE,2024,EUR,Large,Yes
+956,Fraport Cargo,Germany,Germany,Central Europe,Automotive/Transport,Automotive OEM,Commercial Vehicles,5606786077.48,7285359161.38,18614,Public,Listed,FRAP.DE,2024,EUR,Large,Yes
+957,ASML Holding,Netherlands,Netherlands,Western Europe,Technology,IT Services,Managed Services,22650695175.41,40602941712.7,62532,Public,Unlisted,,2024,EUR,Large,Yes
+958,Addnode Group,Sweden,Sweden,Northern Europe,Technology,Internet,E-Commerce Platform,2438492833.96,2751762711.69,4938,Public,Listed,ADDN.ST,2024,EUR,Large,Yes
+959,EnBW AG,Germany,Germany,Central Europe,Energy/Utilities,Water Utilities,Water & Waste,57930554701.35,239110002494.28,92197,Public,Listed,ENBW.DE,2024,EUR,Large,Yes
+960,Atresmedia,Spain,Spain,Southern Europe,Consumer Goods/Retail,Media & Entertainment,Media,290600814.14,410019040.26,885,Private,Unlisted,,2024,EUR,Medium,Yes
+961,Elisa Oyj,Finland,Finland,Northern Europe,Telecommunications,Integrated Telecom,Integrated Telecom,4055371950.02,7773248029.59,9550,Public,Listed,ELIS.HE,2024,EUR,Large,Yes
+962,Sogefi SpA,Italy,Italy,Southern Europe,Automotive/Transport,Airport Operator,Airport Operator,2260010906.96,3200624297.81,11479,Public,Listed,SOGE.MI,2024,EUR,Large,Yes
+963,Tatra banka,Slovakia,Slovakia,Central Europe,Financial Services,Banking,Retail Banking,3622750267.61,68838723911.53,14245,Private,Unlisted,,2024,EUR,Large,Yes
+964,Cepsa,Spain,Spain,Southern Europe,Energy/Utilities,Refining & Marketing,Downstream,367304028.2,1494426529.39,349,Public,Listed,CEPS.MC,2024,EUR,Medium,Yes
+965,Midsummer AB,Sweden,Sweden,Northern Europe,Energy/Utilities,Renewable Energy,Wind,10801390420.38,38681155840.88,9759,Public,Listed,MIDS.ST,2024,EUR,Large,Yes
+966,Coca-Cola HBC,Greece,Greece,Southern Europe,Consumer Goods/Retail,Media & Entertainment,Media,20011430.74,29110025.68,134,Private,Unlisted,,2024,EUR,Small,No
+967,Uniphar plc,Ireland,Ireland,Western Europe,Healthcare/Pharma,Biotechnology,Biotech,274611817.96,282883920.14,1004,Public,Listed,UNIP.IR,2024,EUR,Medium,Yes
+968,Symrise AG,Germany,Germany,Central Europe,Manufacturing,Industrial Gases,Industrial Gases,10426855209.55,21759424705.82,26532,Private,Unlisted,,2024,EUR,Large,Yes
+969,Rockwool A/S,Denmark,Denmark,Northern Europe,Construction/Industrials,Aerospace & Defense,Commercial Aerospace,19658331.83,41351098.11,131,Public,Listed,ROCK.CO,2024,EUR,Small,No
+970,Derichebourg SA,France,France,Western Europe,Construction/Industrials,Aerospace & Defense,Defense,3092035792.02,3139185462.75,18830,Public,Listed,DERI.PA,2024,EUR,Large,Yes
+971,BPCE Assurances,France,France,Western Europe,Financial Services,Banking,Investment Banking,77395423.76,776787987.74,153,Private,Unlisted,,2024,EUR,Small,No
+972,Carlsberg Group,Denmark,Denmark,Northern Europe,Consumer Goods/Retail,Food Retail,Supermarkets,373062850.55,593030595.98,2941,Private,Unlisted,,2024,EUR,Medium,Yes
+973,DIA Group,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,11943409537.63,16247073545.38,70072,Public,Listed,DIAG.MC,2024,EUR,Large,Yes
+974,Pieno Žvaigždės,Lithuania,Lithuania,Northern Europe,Consumer Goods/Retail,Household Products,Household Goods,320773888.3,332216254.68,1592,Private,Unlisted,,2024,EUR,Medium,Yes
+975,Bekaert NV,Belgium,Belgium,Western Europe,Manufacturing,Metals & Mining,Steel,5197144798.52,8696009114.45,13524,Public,Listed,BEKA.BR,2024,EUR,Large,Yes
+976,Sana Kliniken,Germany,Germany,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,48534155217.25,76901885279.13,120390,Public,Listed,SANA.DE,2024,EUR,Large,Yes
+977,Luxottica Group,Italy,Italy,Southern Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,2621731709.98,2782367332.52,15678,Private,Unlisted,,2024,EUR,Large,Yes
+978,Neurones SA,France,France,Western Europe,Technology,Internet,E-Commerce Platform,4367600771.94,3942945653.88,9039,Public,Listed,NEUR.PA,2024,EUR,Large,Yes
+979,Leonardo S.p.A.,Italy,Italy,Southern Europe,Construction/Industrials,Real Estate,Residential Real Estate,16624364.55,25832027.0,85,Private,Unlisted,,2024,EUR,Small,No
+980,Bel Group,France,France,Western Europe,Consumer Goods/Retail,Media & Entertainment,Media,493055874.41,549655937.07,3784,Public,Listed,BELG.PA,2024,EUR,Medium,Yes
+981,Mercedes-Benz Group AG,Germany,Germany,Central Europe,Automotive/Transport,Rail,Rail Operator,1049162707.07,1790057034.99,3348,Public,Listed,MERC.DE,2024,EUR,Medium,Yes
+982,Slovnaft,Slovakia,Slovakia,Central Europe,Energy/Utilities,Refining & Marketing,Downstream,253180159.99,938723299.22,497,Public,Listed,SLOV.EU,2024,EUR,Medium,Yes
+983,Telekom Slovenije,Slovenia,Slovenia,Southern Europe,Telecommunications,Wireless Telecom,Mobile Operator,3079295978.02,4939616385.76,11390,Public,Listed,TELE.EU,2024,EUR,Large,Yes
+984,Pescanova,Spain,Spain,Southern Europe,Consumer Goods/Retail,Food & Beverage,Beverages,59360063297.33,48743021053.34,380513,Public,Listed,PESC.MC,2024,EUR,Large,Yes
+985,Richter Gedeon,Hungary,Hungary,Central Europe,Healthcare/Pharma,Biotechnology,Biotech,4955690913.09,10730590901.44,15386,Private,Unlisted,,2024,EUR,Large,Yes
+986,SimCorp A/S,Denmark,Denmark,Northern Europe,Technology,Internet,E-Commerce Platform,21674332.29,42200174.15,37,Public,Listed,SIMC.CO,2024,EUR,Small,No
+987,Essity AB,Sweden,Sweden,Northern Europe,Consumer Goods/Retail,Personal Products,Cosmetics,197315938.07,200772908.69,1697,Public,Listed,ESSI.ST,2024,EUR,Medium,Yes
+988,OBI Group Holding,Germany,Germany,Central Europe,Consumer Goods/Retail,Hotels & Leisure,Hospitality,52370590564.77,93468413090.22,270122,Private,Unlisted,,2024,EUR,Large,Yes
+989,De Rigo Vision,Italy,Italy,Southern Europe,Consumer Goods/Retail,Food Retail,Discount Retail,18550154546.21,13688567189.31,103652,Public,Listed,DERI.MI,2024,EUR,Large,Yes
+990,Royal Boskalis,Netherlands,Netherlands,Western Europe,Construction/Industrials,Construction,Civil Engineering,37177522966.17,57472573412.74,149881,Public,Listed,ROYA.AS,2024,EUR,Large,Yes
+991,Italgas S.p.A.,Italy,Italy,Southern Europe,Energy/Utilities,Gas Utilities,Gas Distribution,3158117761.05,11711754481.74,4520,Private,Unlisted,,2024,EUR,Large,Yes
+992,Veolia Environnement,France,France,Western Europe,Energy/Utilities,Water Utilities,Water & Waste,924855233.18,3573064896.99,496,Private,Unlisted,,2024,EUR,Medium,Yes
+993,AXA SA,France,France,Western Europe,Financial Services,Diversified Financials,Holding Company,55433260537.7,672559749670.06,132913,Public,Listed,AXAS.PA,2024,EUR,Large,Yes
+994,Faes Farma,Spain,Spain,Southern Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,1246740770.73,2391400099.06,4699,Public,Listed,FAES.MC,2024,EUR,Medium,Yes
+995,SBB (Samhällsbyggnadsbolaget),Sweden,Sweden,Northern Europe,Construction/Industrials,Machinery,Industrial Machinery,221800822.41,257997599.67,784,Public,Listed,SBBS.ST,2024,EUR,Medium,Yes
+996,Nordea Bank Abp,Finland,Finland,Northern Europe,Financial Services,Capital Markets,Exchange / Clearing,289930778.07,2578098129.01,485,Public,Listed,NORD.HE,2024,EUR,Medium,Yes
+997,ASR Nederland,Netherlands,Netherlands,Western Europe,Financial Services,Capital Markets,Exchange / Clearing,2583169251.6,22988214015.18,9774,Private,Unlisted,,2024,EUR,Large,Yes
+998,Grupo Mahou-San Miguel,Spain,Spain,Southern Europe,Consumer Goods/Retail,Apparel & Luxury,Luxury Goods,90712454714.29,88049299883.31,349726,Public,Listed,GRUP.MC,2024,EUR,Large,Yes
+999,Voltalia Energy,France,France,Western Europe,Energy/Utilities,Oil & Gas E&P,Upstream,2622964781.79,5968707779.97,4096,Public,Listed,VOLT.PA,2024,EUR,Large,Yes
+1000,Sanofi S.A.,France,France,Western Europe,Healthcare/Pharma,Healthcare Services,Clinical Services,71646824722.09,91362472901.41,384777,Public,Listed,SANO.PA,2024,EUR,Large,Yes

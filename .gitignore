@@ -216,3 +216,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- project-specific ---
+.env.*
+!.env.example
+
+*.sqlite
+*.sqlite3
+*.db
+smoke.db
+
+.DS_Store
+~$*
+
+node_modules/
+.next/
+.vite/
+
+data/
+
+*.docx
+*.pptx
+~$*.docx
+~$*.pptx
