@@ -31,8 +31,12 @@ class Settings(BaseSettings):
     db_max_overflow: int = 20
 
     anthropic_api_key: str = ""
-    anthropic_model: str = "claude-opus-4-7"
+    anthropic_model: str = "claude-haiku-4-5-20251001"
     anthropic_max_tokens: int = 1024
+
+    demo_mode: bool = False
+    demo_daily_llm_calls_per_ip: int = 5
+    demo_total_daily_llm_calls: int = 200
 
     embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
     embedding_device: str = "cpu"

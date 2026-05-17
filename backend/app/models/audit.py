@@ -24,3 +24,15 @@ class AuditLog(Base):
     user_agent: Mapped[Optional[str]] = mapped_column(String(512))
     event_type: Mapped[str] = mapped_column(String(64), default="http_request", index=True)
     payload: Mapped[Optional[Dict[str, Any]]] = mapped_column(JSON)
+
+
+class LlmQuota(Base):
+    __tablename__ = "llm_quota"
+
+    scope: Mapped[str] = mapped_column(String(16), primary_key=True)
+    key: Mapped[str] = mapped_column(String(64), primary_key=True)
+    day: Mapped[str] = mapped_column(String(10), primary_key=True)
+    count: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), server_default=func.now(), onupdate=func.now()
+    )

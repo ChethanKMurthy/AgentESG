@@ -2,6 +2,8 @@
 
 > An end-to-end ESG / CSRD compliance platform — multi-agent backend, hybrid RAG, data-driven rules, peer benchmarking, an explainable roadmap generator, and a full audit trail. Built solo, containerized end-to-end, runs anywhere Docker runs.
 
+**🌐 Live demo:** `https://agentesg-chethan.vercel.app` *(replace with your URL once deployed — see [DEPLOY.md](DEPLOY.md))* · **Backend:** Hugging Face Space · **API docs:** `<demo-url>/api/docs`
+
 ---
 
 Hey — thanks for stopping by. Pull up a chair, this is going to be a bit of a long one because I actually want to explain *why* the thing is built the way it is, not just *what* it does. If you're a recruiter or engineer skimming, the TL;DR is right here and the deep dive is below.
@@ -26,7 +28,7 @@ Frontend is a React/Vite SPA with a chat copilot ("Verdant"). Everything is asyn
 | Layer | What it is | Why this and not something else |
 |---|---|---|
 | Backend | FastAPI 0.115, SQLAlchemy 2.0 async, Pydantic v2, Alembic | I wanted modern async Python without a Django-sized blast radius. FastAPI's request middleware story made the audit trail clean. |
-| LLM | Anthropic Claude (`claude-opus-4-7` by default, env-configurable) | Long context for stuffing regulatory chunks, strong JSON-mode for the disclosure extractor. The whole system **degrades gracefully** if no key is set — more on that below. |
+| LLM | Anthropic Claude (`claude-haiku-4-5-20251001` default for the hosted demo, `claude-opus-4-7` recommended for local — env-configurable) | Long context for stuffing regulatory chunks, strong JSON-mode for the disclosure extractor. The whole system **degrades gracefully** if no key is set — more on that below. |
 | Vector store | FAISS (`IndexFlatIP`, cosine via normalized vectors) | At ~thousands of chunks, exact search beats ANN tradeoffs. Zero server, no separate process, persists to a Docker volume. |
 | Embeddings | `sentence-transformers/all-MiniLM-L6-v2` (384-dim, CPU) | Small, fast, decent quality, runs without GPU. Embedding model is env-swappable; the index reseeds on dimensionality change. |
 | Sparse retriever | `rank-bm25` | Lexical fallback for regulatory terminology — "ESRS E1", "Article 19a", "Scope 3" — that dense embeddings sometimes blur. |
@@ -243,6 +245,19 @@ Three containers, one network:
 | `postgres` | `esg_postgres` | 5432 | Postgres 16 |
 
 Two named volumes: `postgres_data` (DB rows) and `backend_data` (HF model cache, FAISS index, ingested docs, seed CSVs). Nothing on the host filesystem.
+
+### Hosted deployment
+
+The live demo runs on **Hugging Face Spaces (Docker SDK) + Vercel** for zero infra cost. SQLite replaces Postgres in the Space (data reseeds from CSV on boot), the embedding model + FAISS index are baked into the image at build time so first request is fast, and a `DEMO_MODE=true` env var turns on a four-layer LLM-cost cap:
+
+1. Anthropic workspace monthly spend limit ($5).
+2. Default model swapped to Haiku 4.5 (~15× cheaper per token).
+3. Per-call `max_tokens` clamped to 512.
+4. Per-IP (5/day) + global (200/day) rate limit middleware (`backend/app/middleware/rate_limit.py`) with quota tracked in a `llm_quota` table.
+
+Worst-case daily spend at full quota: ~$0.50. Non-LLM endpoints (companies, rules, RAG retrieval, benchmarks) stay unlimited and cost zero.
+
+Full click-by-click deploy guide: **[DEPLOY.md](DEPLOY.md)**.
 
 ### Demo flow I recommend
 

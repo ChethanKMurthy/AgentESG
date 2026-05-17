@@ -10,6 +10,7 @@ from app.core.logging import configure_logging, get_logger
 from app.db.base import Base
 from app.db.session import engine
 from app.middleware.audit import AuditMiddleware
+from app.middleware.rate_limit import RateLimitMiddleware
 import app.models  # noqa: F401  (registers mappers on Base.metadata)
 
 configure_logging()
@@ -41,6 +42,7 @@ def create_app() -> FastAPI:
         allow_methods=["*"],
         allow_headers=["*"],
     )
+    app.add_middleware(RateLimitMiddleware)
     app.add_middleware(AuditMiddleware)
 
     app.include_router(api_router, prefix="/api")

@@ -19,8 +19,18 @@ class AnthropicClient:
         settings = get_settings()
         self.model = settings.anthropic_model
         self.max_tokens = settings.anthropic_max_tokens
+        self.demo_mode = settings.demo_mode
+        # In demo mode, clamp per-call output to bound spend even if a code path
+        # ever bypasses the per-route rate-limit middleware.
+        self.demo_max_tokens = 512
         self.enabled = bool(settings.anthropic_api_key)
         self.client = AsyncAnthropic(api_key=settings.anthropic_api_key) if self.enabled else None
+
+    def _resolve_max_tokens(self, requested: Optional[int]) -> int:
+        ceiling = self.demo_max_tokens if self.demo_mode else self.max_tokens
+        if requested is None:
+            return ceiling
+        return min(requested, ceiling)
 
     @classmethod
     def instance(cls) -> "AnthropicClient":
@@ -42,7 +52,7 @@ class AnthropicClient:
             return
         kwargs = {
             "model": self.model,
-            "max_tokens": max_tokens or self.max_tokens,
+            "max_tokens": self._resolve_max_tokens(max_tokens),
             "system": system,
             "messages": [{"role": "user", "content": user}],
         }
@@ -68,7 +78,7 @@ class AnthropicClient:
         try:
             kwargs = {
                 "model": self.model,
-                "max_tokens": max_tokens or self.max_tokens,
+                "max_tokens": self._resolve_max_tokens(max_tokens),
                 "system": system,
                 "messages": [{"role": "user", "content": user}],
             }
